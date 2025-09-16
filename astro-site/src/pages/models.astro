@@ -1,0 +1,243 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ModelCard from '../components/ModelCard.astro';
+
+let modelData = { models: [] };
+try {
+  const data = await import('../../../patron_models.json');
+  modelData = data.default || data;
+} catch (e) {
+  console.warn('patron_models.json not found or empty');
+}
+
+const allModels = modelData.models || [];
+// Sort models by added_date in descending order (newest first)
+const sortedModels = [...allModels].sort((a, b) => {
+  const dateA = new Date(a.added_date || 0);
+  const dateB = new Date(b.added_date || 0);
+  return dateB.getTime() - dateA.getTime();
+});
+const modelTypes = [...new Set(allModels.map(model => model.type))].sort();
+---
+
+<Layout title="Portfolio - 3D Studio">
+  <!-- Header -->
+  <section class="py-12 px-6 bg-white border-b-2 border-black">
+    <div class="max-w-7xl mx-auto">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-end">
+        <div class="lg:col-span-2">
+          <h1 class="refined-title mb-4">
+            <span class="refined-outline">Complete</span><br/>
+            Portfolio
+          </h1>
+          <p class="text-lg text-gray-600">
+            {allModels.length} premium models crafted with typographic excellence
+          </p>
+        </div>
+        
+        <div class="text-right">
+          <div class="refined-number refined-outline">
+            {allModels.length.toString().padStart(2, '0')}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="py-8 px-6 bg-gray-50 border-b border-gray-300">
+    <div class="max-w-7xl mx-auto">
+      <div class="flex flex-col md:flex-row gap-6 items-center justify-between">
+        <div class="flex flex-col sm:flex-row gap-4">
+          <select id="typeFilter" class="border-2 border-black px-4 py-2 bg-white font-medium">
+            <option value="">All Categories</option>
+            {modelTypes.map(type => (
+              <option value={type}>{type}</option>
+            ))}
+          </select>
+          
+          <select id="sortFilter" class="border-2 border-black px-4 py-2 bg-white font-medium">
+            <option value="newest">Newest First</option>
+            <option value="oldest">Oldest First</option>
+            <option value="name-asc">Name A-Z</option>
+            <option value="name-desc">Name Z-A</option>
+          </select>
+        </div>
+        
+        <div id="resultsSummary" class="text-sm font-medium uppercase tracking-wide">
+          Showing {allModels.length} Models
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Models Grid -->
+  <section class="py-16 px-6">
+    <div class="max-w-7xl mx-auto">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8" id="modelsGrid">
+        {sortedModels.map((model, index) => (
+          <div class="model-card refined-slide-up" data-type={model.type} data-name={model.name.toLowerCase()} data-added={model.added_date} style={`animation-delay: ${(index % 12) * 0.1}s`}>
+            <ModelCard model={model} index={sortedModels.length - index - 1} />
+          </div>
+        ))}
+      </div>
+
+      <!-- No Results -->
+      <div id="noResults" class="text-center py-20 hidden">
+        <div class="refined-card p-12 max-w-md mx-auto">
+          <div class="text-6xl font-black mb-4 refined-outline opacity-30">∅</div>
+          <h3 class="text-xl font-bold mb-4">No Models Found</h3>
+          <p class="text-gray-600 mb-6 leading-relaxed">
+            Adjust your filters or browse all categories to discover our complete collection.
+          </p>
+          <button onclick="clearFilters()" class="refined-button">
+            <span>Reset Filters</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfolio Stats -->
+  <section class="py-16 px-6 bg-black text-white">
+    <div class="max-w-7xl mx-auto text-center">
+      <h2 class="refined-subtitle mb-12 text-white">
+        Portfolio <span class="refined-outline-white">Statistics</span>
+      </h2>
+      
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div class="border border-white p-8">
+          <div class="text-4xl font-black mb-2">{allModels.length}</div>
+          <div class="text-sm uppercase tracking-widest text-gray-400">Total Models</div>
+        </div>
+        
+        <div class="border border-white p-8">
+          <div class="text-4xl font-black mb-2">{[...new Set(allModels.map(m => m.type))].length}</div>
+          <div class="text-sm uppercase tracking-widest text-gray-400">Categories</div>
+        </div>
+        
+        <div class="border border-white p-8">
+          <div class="text-4xl font-black mb-2">100%</div>
+          <div class="text-sm uppercase tracking-widest text-gray-400">Quality</div>
+        </div>
+        
+        <div class="border border-white p-8">
+          <div class="text-4xl font-black mb-2 refined-outline-white">3D</div>
+          <div class="text-sm uppercase tracking-widest text-gray-400">Excellence</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Typography Quote -->
+  <section class="py-16 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <blockquote class="text-3xl font-light leading-relaxed mb-8 italic text-gray-700">
+        "Typography is the craft of endowing human language with a durable visual form."
+      </blockquote>
+      <cite class="text-sm uppercase tracking-widest font-medium text-gray-600">
+        — Robert Bringhurst
+      </cite>
+      
+      <div class="mt-12 pt-12 border-t-2 border-black">
+        <div class="refined-subtitle mb-4">
+          <span class="refined-outline">Ready</span> to Download?
+        </div>
+        <p class="text-lg text-gray-600 mb-8">
+          All models are available for immediate download with complete file packages and documentation.
+        </p>
+        <a href="#top" class="refined-button">
+          <span>Back to Top</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const typeFilter = document.getElementById('typeFilter') as HTMLSelectElement;
+    const sortFilter = document.getElementById('sortFilter') as HTMLSelectElement;
+    const modelCards = document.querySelectorAll('.model-card') as NodeListOf<HTMLElement>;
+    const noResults = document.getElementById('noResults') as HTMLElement;
+    const resultsSummary = document.getElementById('resultsSummary') as HTMLElement;
+    const modelsGrid = document.getElementById('modelsGrid') as HTMLElement;
+
+    let allCards = Array.from(modelCards);
+
+    function updateResults() {
+      const selectedType = typeFilter.value;
+      const selectedSort = sortFilter.value;
+      
+      // Filter cards
+      let visibleCards = allCards.filter(card => {
+        const cardType = card.getAttribute('data-type');
+        return selectedType === '' || cardType === selectedType;
+      });
+
+      // Sort cards
+      visibleCards.sort((a, b) => {
+        const aName = a.getAttribute('data-name') || '';
+        const bName = b.getAttribute('data-name') || '';
+        const aDate = new Date(a.getAttribute('data-added') || 0);
+        const bDate = new Date(b.getAttribute('data-added') || 0);
+        
+        switch(selectedSort) {
+          case 'name-asc':
+            return aName.localeCompare(bName);
+          case 'name-desc':
+            return bName.localeCompare(aName);
+          case 'oldest':
+            return aDate.getTime() - bDate.getTime();
+          case 'newest':
+          default:
+            return bDate.getTime() - aDate.getTime();
+        }
+      });
+
+      // Update DOM
+      allCards.forEach(card => card.style.display = 'none');
+      visibleCards.forEach(card => card.style.display = 'block');
+
+      // Reorder visible cards in grid
+      visibleCards.forEach(card => {
+        modelsGrid.appendChild(card);
+      });
+
+      // Update summary and no results
+      const count = visibleCards.length;
+      if (count === 0) {
+        noResults.classList.remove('hidden');
+        resultsSummary.textContent = 'No models found';
+      } else {
+        noResults.classList.add('hidden');
+        const categoryText = selectedType ? ` in ${selectedType}` : '';
+        resultsSummary.textContent = `Showing ${count} model${count !== 1 ? 's' : ''}${categoryText}`;
+      }
+    }
+
+    // Global function for clear filters button
+    (window as any).clearFilters = function() {
+      typeFilter.value = '';
+      sortFilter.value = 'newest';
+      updateResults();
+    };
+
+    typeFilter.addEventListener('change', updateResults);
+    sortFilter.addEventListener('change', updateResults);
+    
+    // Check URL parameters on load
+    const urlParams = new URLSearchParams(window.location.search);
+    const typeParam = urlParams.get('type');
+    if (typeParam) {
+      // Check if the type exists in the select options
+      const typeExists = Array.from(typeFilter.options).some(option => option.value === typeParam);
+      if (typeExists) {
+        typeFilter.value = typeParam;
+      }
+    }
+    
+    // Initialize
+    updateResults();
+  });
+</script>

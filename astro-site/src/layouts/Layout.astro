@@ -1,0 +1,372 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "3D Models - Refined Typography" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body class="bg-white text-black">
+    <nav class="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-md z-50 border-b border-black">
+      <div class="max-w-7xl mx-auto px-6 py-4">
+        <div class="flex justify-between items-center">
+          <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}`} class="group">
+            <div class="text-2xl font-black tracking-tighter leading-none">
+              <span class="refined-outline">ABSTRACTIA</span><br/>
+              <span class="text-2xl">DESIGN</span>
+            </div>
+          </a>
+          <div class="flex gap-8 items-center">
+            <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}`} 
+               class="text-lg font-medium hover:font-bold transition-all duration-300 uppercase tracking-wide refined-hover">
+              Home
+            </a>
+            <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/models`}
+               class="text-lg font-medium hover:font-bold transition-all duration-300 uppercase tracking-wide refined-hover">
+              Portfolio
+            </a>
+            <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/patreon`}
+               class="text-lg font-medium hover:font-bold transition-all duration-300 uppercase tracking-wide refined-hover text-orange-500">
+              Get License
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    
+    <main class="pt-20">
+      <slot />
+    </main>
+    
+    <footer class="border-t-2 border-black mt-24">
+      <div class="max-w-7xl mx-auto px-6 py-16">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+          <div>
+            <div class="text-4xl font-black leading-none mb-4 refined-outline">©</div>
+            <p class="text-sm text-gray-600">
+              {new Date().getFullYear()} Abstractia Design<br/>
+              Premium design resources
+            </p>
+          </div>
+          
+          <div>
+            <h4 class="font-bold uppercase tracking-widest mb-4">Quick Links</h4>
+            <div class="space-y-2">
+              <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}`} class="block text-gray-600 hover:text-black transition-colors">
+                Home
+              </a>
+              <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/models`} class="block text-gray-600 hover:text-black transition-colors">
+                All Models
+              </a>
+              <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/patreon`} class="block text-gray-600 hover:text-black transition-colors">
+                Commercial Licensing
+              </a>
+            </div>
+          </div>
+          
+          <div>
+            <h4 class="font-bold uppercase tracking-widest mb-4">Contact</h4>
+            <p class="text-gray-600">
+              <a href="mailto:abstractiadesign@gmail.com" class="hover:text-black transition-colors">Email me</a><br/>
+              or <a href="https://www.patreon.com/AbstractiaDSGN" target="_blank" rel="noopener noreferrer" class="hover:text-black transition-colors">contact via Patreon messaging</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700;900&display=swap');
+  
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  /* Prevent horizontal scroll */
+  body {
+    overflow-x: hidden;
+  }
+  
+  /* Selection styling */
+  ::selection {
+    background: #000;
+    color: #fff;
+  }
+  
+  /* Animated gradient text with semi-pastel orange to teal */
+  .refined-outline {
+    background: linear-gradient(135deg, 
+      #fb923c,      /* soft orange */
+      #fdba74,      /* peach */
+      #f9a8d4,      /* soft pink */
+      #67e8f9,      /* light cyan */
+      #5eead4,      /* soft teal */
+      #fb923c       /* back to orange for seamless loop */
+    );
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    position: relative;
+    line-height: 1.1;
+    display: inline-block;
+    font-weight: 900;
+    animation: gradientShift 20s ease infinite;
+  }
+  
+  @keyframes gradientShift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .refined-outline-white {
+    background: linear-gradient(135deg, 
+      #fb923c,      /* soft orange */
+      #fdba74,      /* peach */
+      #f9a8d4,      /* soft pink */
+      #67e8f9,      /* light cyan */
+      #5eead4,      /* soft teal */
+      #fb923c       /* back to orange for seamless loop */
+    );
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    position: relative;
+    line-height: 1.1;
+    display: inline-block;
+    font-weight: 900;
+    animation: gradientShift 20s ease infinite;
+  }
+  
+  /* Improved hover fill effect */
+  .refined-hover {
+    position: relative;
+    transition: all 0.3s ease;
+    overflow: hidden;
+  }
+  
+  .refined-hover::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(135deg, 
+      #fb923c,      /* soft orange */
+      #fdba74,      /* peach */
+      #f9a8d4,      /* soft pink */
+      #67e8f9,      /* light cyan */
+      #5eead4,      /* soft teal */
+      #fb923c       /* back to orange for seamless loop */
+    );
+    background-size: 200% 200%;
+    animation: gradientShift 20s ease infinite;
+    transition: width 0.3s ease;
+  }
+  
+  .refined-hover:hover::after {
+    width: 100%;
+  }
+  
+  /* Typography sizes - more manageable */
+  .refined-title {
+    font-size: clamp(3rem, 8vw, 6rem);
+    line-height: 0.9;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+  }
+  
+  .refined-subtitle {
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    line-height: 1.1;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+  }
+  
+  .refined-number {
+    font-size: clamp(4rem, 12vw, 8rem);
+    line-height: 0.8;
+    font-weight: 900;
+    /* Prevent overlapping */
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* Grid typography */
+  .refined-grid-title {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 800;
+    line-height: 1.2;
+  }
+  
+  /* Improved card styling */
+  .refined-card {
+    border: 2px solid black;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .refined-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Better text contrast */
+  .refined-contrast {
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.8);
+  }
+  
+  /* Refined animations */
+  .refined-slide-up {
+    animation: slideUp 0.6s ease-out;
+  }
+  
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Type reveal with better spacing */
+  .refined-reveal {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Social icon gradient */
+  .social-icon-gradient {
+    position: relative;
+  }
+  
+  .social-icon-gradient svg {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .refined-reveal::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: black;
+    transform: translateX(-100%);
+    animation: reveal 1s ease-out 0.3s forwards;
+  }
+  
+  @keyframes reveal {
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  /* Text fill animation */
+  .hover-fill {
+    position: relative;
+    display: inline-block;
+    background: linear-gradient(to right, black 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: 100% 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transition: background-position 0.3s ease;
+  }
+  
+  .hover-fill:hover {
+    background-position: 0 0;
+  }
+  
+  /* Slide animations */
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft 0.8s ease-out;
+  }
+  
+  .slide-in-right {
+    animation: slideInRight 0.8s ease-out;
+  }
+  
+  /* Simple button styling */
+  .refined-button {
+    border: 2px solid black;
+    background: white;
+    color: black;
+    padding: 1rem 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    transition: all 0.3s ease;
+    display: inline-block;
+  }
+  
+  .refined-button:hover {
+    background: black;
+    color: white;
+  }
+  
+  /* Spacing utilities */
+  .refined-spacing {
+    margin: 2rem 0;
+  }
+  
+  /* Fixed responsive behavior for outline text */
+  @media (max-width: 768px) {
+    .refined-outline {
+      /* Ensure text doesn't break layout on mobile */
+      max-width: 100%;
+      word-break: break-word;
+    }
+  }
+</style>
