@@ -50,7 +50,7 @@ const { model } = Astro.props;
           {model.thumbnail && (
             <div class="refined-card overflow-hidden">
               <img 
-                src={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/${model.thumbnail.replace(/^\//, '')}`}
+                src={model.thumbnail}
                 alt={model.name}
                 class="w-full h-96 lg:h-[500px] object-cover"
                 onerror="this.onerror=null; this.src=this.src.replace('main.jpg', 'main.png')"

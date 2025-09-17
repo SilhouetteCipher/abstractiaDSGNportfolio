@@ -10828,7 +10828,7 @@
       "name": "Textured Light With Diffuser",
       "slug": "textured-lamp-with-diffuser",
       "description": "**Modular Three-Part Lamp with Color Diffuser**\n\nThis sleek modular lamp design features three separate components - a sturdy base, elegant shade, and inner diffuser - that work together to create stunning illuminated effects. The ribbed shade design produces beautiful light patterns while the inner diffuser allows you to experiment with different ambient lighting combinations.\n\nThe clean, contemporary aesthetic fits perfectly in modern homes, offices, or anywhere you want to add sophisticated mood lighting. The modular design means you can mix and match different materials or experiment with various transparency levels to achieve your desired lighting effect.\n\nThis lamp is compatible with Bambu lighting kits (linked below in the BOM) for easy assembly and reliable illumination.\n\n**Key Features:**\n\n- Print in your own choice of materials and transparency levels\n- Three-part modular design for easy printing and assembly\n- Compatible with Bambu lighting kits\n- Contemporary ribbed shade creates attractive light patterns\n- Inner diffuser allows for creative color combinations\n- Perfect for mood lighting and ambient illumination",
-      "type": "Lamp Wirelesz",
+      "type": "Lamp-Wireless",
       "files": {
         "inner diffuser.obj": "https://drive.google.com/uc?export=download&id=1ICanh93-aGmd7QG7wZPF6xLjoCsQ7fXG",
         "Textured Lamp With Diffuser.md": "https://drive.google.com/uc?export=download&id=1fYhdFUI9SAPTYHX-KY_J4D3pzfkYhi10",
