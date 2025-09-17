@@ -5,7 +5,8 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://abstractiaportfolio.netlify.app',
+  site: 'https://silhouettecipher.github.io',
+  base: '/abstractiaDSGNportfolio',
   output: 'static',
   build: {
     assets: 'assets'
