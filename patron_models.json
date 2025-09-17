@@ -5,7 +5,7 @@
       "name": "Hex Taper Twist Lamp wireless",
       "slug": "hex-taper-twist-lamp-wireless",
       "description": "This elegant, vase-mode lamp shade is designed to sit perfectly over the Bambu Wireless RGB Puck Light, transforming it into a striking centerpiece. Its sculptural hourglass form and flowing vertical contours provide a subtle play of light and shadow, adding a modern accent to any space. The single-wall spiral vase print ensures fast, material-efficient printing with a beautiful, seamless finish.\n\n---\n\n**Key Features:**\n\n- Designed specifically for the **Bambu Wireless RGB Puck Light**\n    \n- Prints in **spiral vase mode** for efficient, single-wall construction\n    \n- Organic hourglass silhouette creates dynamic light diffusion\n    \n- Ideal for ambient or decorative lighting setups\n    \n- Lightweight and easy to scale for different applications\n    \n\nCompatible puck lights will be linked in the bill of materials at the bottom of the listing. Purchasing them helps support the creator.",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "DSCF0743 (Large).JPG": "https://drive.google.com/uc?export=download&id=1dnv9evU10noZbYEe9xTc-i6HRery1oNB",
         "hex flip lamp light off_view1.jpg": "https://drive.google.com/uc?export=download&id=1icNZVZVvaN7HVv3oexE7HhinU8egO4MY",
@@ -92,7 +92,7 @@
       "name": "Wibble Lamp. Two Part E14",
       "slug": "wibble-lamp-two-part-e14",
       "description": "### Description\n# Ripple LED Table Lamp\n\nTransform your space with this elegant ripple-effect table lamp that brings a warm, inviting glow to any room. The distinctive curved silhouette and textured vertical pattern create stunning light diffusion effects, casting gentle shadows while providing ambient illumination.\n\nThis modern lamp features an innovative three-part design: a sturdy base, a textured outer shade with fuzzy skin finish, and an inner diffuser that softens the light for a cozy atmosphere. The sculptural form makes it an artistic statement piece even when not illuminated.\n\nPerfect for bedside tables, desks, shelves, or accent tables where you want to add both style and functional lighting.\n\n## Features:\n\n- Compatible with Bambu lighting kits linked in BOM below\n- Print in your preferred style to match your decor\n- Three-part design allows for creative color combinations\n- Textured outer shade with fuzzy skin for visual interest\n- Inner diffuser ensures perfect light dispersion\n- Designed for E14 fittings and LED candle-style bulbs\n- Modern, mid-century inspired design complements any interior\n- Compact footprint works well in small spaces\n- Creates a warm, inviting ambient glow\n\nElevate your home lighting with this designer-inspired lamp that combines form and function in a beautiful, printable package.\n\nFitting i use https://www.amazon.co.uk/dp/B0CM5P9MKF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1\n\nBulb i use\n\nhttps://www.amazon.co.uk/dp/B07SJDG1HZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2\n## Patreon Support/Commercial Licencing.",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         "base and inner shade.3mf": "https://drive.google.com/uc?export=download&id=1s4DomUtjUpeeZgQMygJBzOhH966wcyRt",
         "DSCF0525 (Large).JPG": "https://drive.google.com/uc?export=download&id=1MmrgCGb05xO0wX4lM34uI4ffbQASBioC",
@@ -191,7 +191,7 @@
       "name": "Tall Wibble Lamp e14",
       "slug": "tall-wibble-lamp-e14",
       "description": "Wavy Column Ambient Light\n\nAdd a touch of modern elegance to any space with this wavy column light that creates beautiful ambient illumination. The undulating vertical ridges diffuse light in captivating patterns, making it a stunning accent piece whether lit or unlit.\n\nThis two-part lamp is designed for E14 fittings and looks fantastic with LED bulbs (linked in BOM below).\n\n## Key Features:\n\n- Print in your own size and color to complement any interior style\n- Compatible with standard E14 light fittings\n- Two-part design with separate base and shade for easy assembly\n- Undulating texture creates mesmerizing light patterns\n- Modern organic aesthetic that works in contemporary or minimalist spaces\n\nThe gentle wave pattern gives this lamp a dynamic quality that brings visual interest to any room. When illuminated, the textured surface creates a play of light and shadow that adds warmth and dimension to your space.\n\nSimple to print and assemble, this versatile light fixture makes a sophisticated addition to bedside tables, shelves, or as accent lighting in living areas. LED bulbs are recommended for energy efficiency and reduced heat output.",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         "both parts.3mf": "https://drive.google.com/uc?export=download&id=1f1aUJ7y9dVH6vKKlEvzhT_xT0SGWWBl_",
         "bottom.obj": "https://drive.google.com/uc?export=download&id=1TCoj6GUBhKRJGsfEl0A8x0Ct_xJ8nkW-",
@@ -278,7 +278,7 @@
       "name": "Bubble Wireless Lamp",
       "slug": "bubble-wireless-lamp",
       "description": "# Ribbed Ambient Light\n\nBring modern elegance to any space with this sleek ribbed light that creates a captivating ambient glow. The contemporary design features horizontal ridges that diffuse light beautifully through your space, creating a calming atmosphere perfect for bedrooms, living areas, or office spaces.\n\nThis light is compatible with the Bambu lighting kits linked below in the BOM (Bill of Materials), transforming this decorative piece into a functional lighting solution with minimal effort.\n\n## Key Features:\n\n- Print in your own size and color to match any décor\n- Compatible with Bambu lighting kits (linked in BOM)\n- Two-part design with separate base and shade for easy assembly\n- Ribbed texture creates stunning light diffusion patterns\n- Modern minimalist aesthetic suits contemporary interiors\n\nThe horizontal ribbing not only adds visual interest but also creates a mesmerizing play of light and shadow when illuminated. The gentle gradient of light adds depth and dimension to any room without overwhelming the space.\n\nSimple to print and assemble, this light makes an impressive addition to your home or a thoughtful gift for design-conscious friends.",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "base.obj": "https://drive.google.com/uc?export=download&id=1pCY6UzoiAbLa1chf6hlOOvt5nuN9aOl9",
         "both parts.3mf": "https://drive.google.com/uc?export=download&id=1ZiVzhEtI5sbcaLISpuWkWD6gWsGIUfi-",
@@ -348,7 +348,7 @@
       "name": "Laptop Stand Wall Mounted",
       "slug": "laptop-stand-wall-mounted",
       "description": "# Wave Laptop Wall Mount\n\nA sleek, minimalist wall mount for your laptop that combines form and function. This wave-designed holder keeps your workspace clean while adding a modern accent to your setup. The clever dovetail mounting system makes installation a breeze.\n\nPerfect for home offices, dorm rooms, or anywhere you need to save desk space without sacrificing style.\n\n## Features:\n\n- Print in your preferred size and color to match your space\n- Available in multiple sizes to accommodate different laptop thicknesses\n- Includes dovetail joint mounting system - simply screw the dovetail to wall and slide mount into place\n- Ribbed design provides excellent airflow for laptop cooling\n- Lightweight yet sturdy construction\n- Low profile, minimalist aesthetic that complements modern interiors\n\nFor lighter laptops, adhesive mounting is possible as an alternative to screws. Protective foam pads (linked in BOM below) are recommended to prevent any scratches to your laptop.\n\nInstallation is quick and straightforward - no complicated hardware required!",
-      "type": "Laptop-Stand",
+      "type": "Laptop Stand",
       "files": {
         "15.stl": "https://drive.google.com/uc?export=download&id=1DC4ITikysulmtY1jmbLPc0qz0OdUg_vr",
         "17.stl": "https://drive.google.com/uc?export=download&id=11IgyhqvpeRjy8NUQvyZ_CAsow2wXlDQ-",
@@ -420,7 +420,7 @@
       "name": "Book Nook Warhammer 40k Style",
       "slug": "book-nook-warhammer-40k-style",
       "description": "# Gothic Cathedral Warhammer 40K Book Nook\n\nTransform your bookshelf into a display of epic proportions with this detailed Gothic Cathedral book nook inspired by the Warhammer 40K universe. This architectural masterpiece features intricate arched ceilings, detailed columns, and an impressive throne chamber that creates a stunning depth illusion between your favorite books.\n\nThis book nook doubles as a functional lamp, illuminating the detailed interior and creating a dramatic atmosphere on your bookshelf. Works with the Bambu wireless RGB lighting kit which beautifully illuminates the altar space, creating the perfect backdrop for displaying your miniatures (not included) or simply as a standalone piece celebrating the gothic architecture of the 41st millennium.\n\n## Features:\n\n- Print in your preferred color to match your collection or bookshelf theme\n- Compatible with Bambu wireless RGB lighting kit linked in the BOM\n- Detailed gothic architectural elements including ribbed vaults and decorated columns\n- Perfect display piece for Warhammer 40K enthusiasts\n- Designed to fit standard bookshelf depths\n- RGB lighting creates atmospheric illumination of the altar space\n\nThis book nook brings the grandeur of Warhammer 40K architecture right into your personal library or gaming space. The dramatic lighting accentuates the intricate details and creates depth, making it an eye-catching centerpiece among your books. An essential addition for any fan of the grimdark universe.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "Book Nook.txt": "https://drive.google.com/uc?export=download&id=15wzBCNPS1Q7evEACdsWSXDHNi4PY9hae",
         "DSCF0787 (Large).JPG": "https://drive.google.com/uc?export=download&id=1-3FkkCV_aikNZbKlpAoq6DcOOg05fjGI",
@@ -656,7 +656,7 @@
       "name": "Flipped Wireless Lamp",
       "slug": "flipped-wireless-lamp",
       "description": "02-05-25\n#type\n#uploaded\ndirectory\n\nF:\\SynologyDrive\\3d printing\\Lights\\FLIPPED VASE MODE LAMP\n### Description\n\n# Fluted Barrel RGB Light Shade\n\nTransform your space with this elegant fluted barrel light shade designed specifically for the Bambu wireless RGB puck. The gentle curved profile and precise vertical ribbing create stunning light diffusion effects that enhance any room's ambiance.\n\nThis modern lamp shade features a sophisticated barrel silhouette with delicate fluting that creates beautiful light and shadow patterns when illuminated. The thoughtfully designed structure perfectly diffuses the RGB lighting from your Bambu puck, transforming harsh direct light into a soft, ambient glow that can shift through a spectrum of colors.\n\nPrinted in spiral vase mode for rapid production and optimal light transmission, this shade is both practical and visually striking. The quick print time means you can easily create multiple shades to place throughout your home for consistent lighting design.\n\n## Features:\n\n- Designed specifically to fit perfectly over the Bambu wireless RGB puck\n- Transparent or light colored PLA recommended for best light diffusion (avoid matte filaments)\n- Print in your preferred color to complement your decor\n- Quick spiral vase mode print for rapid production\n- The light is compatible with the Bambu lighting kits linked below\n- Fluted texture creates beautiful light patterns and visual interest\n- Modern, sophisticated design enhances any room's aesthetic\n- Transforms your basic RGB puck into an elegant ambient light fixture\n\nAdd a touch of designer lighting to your space without the designer price tag. This versatile light shade works brilliantly in bedrooms, living areas, or as subtle accent lighting in any room.\n## Patreon Support/Commercial Licencing. \n\nIf you would like to support my work, I now have a Patreon at [https://www.patreon.com/AbstractiaDSGN](https://www.patreon.com/AbstractiaDSGN). Tiers range from simple monthly support to say thank you for my ongoing work to full commercial licenses if you would like to sell physical versions of my prints in your store. Thank you to all supporters! MakerWorld now also offers commercial licensing, and if you would prefer to support my work that way, just click the link below. There is no difference in commercial licensing between Patreon and MakerWorld; licenses are available on both simply because some users prefer Patreon.\n\n\n\n## RE-Upload Warning\n\nPlease do not download my designs and upload them to other platforms as your own. They are protected by Digital File Licencing and MakerWorlds Legal team will act on my behalf to protect them. Other platforms are automatically scanned and I will be notified. By stealing my work you are stealing my income and I will protect that with the full force of the tools available to me. \n\n DO NOT sell my models on etsy or any other store without a commercial licence. They will be removed and your accounts will be closed as you do not hold the rights to sell the designs without my explicit permission via a commercial licence. Stores are monitored automatically so you will not get away with it\n\n### Commercial Licence Information   \nCommercial licences are now available via Patreon at [https://www.patreon.com/AbstractiaDSGN](https://www.patreon.com/AbstractiaDSGN) There are also tiers if you would just like to support my work and don't need a commercial licence. Thank you to all supporters.\n\n### Support Me Directly\n\nIf you love my daily designs and would like to make a one off gesture of support you can buy me a coffee here  \n[buymeacoffee.com/abstractiadsgn](https://makerworld.com/en/models/buymeacoffee.com/abstractiadsgn)\n\n[![](https://makerworld.bblmw.com/makerworld/model/DSM00000001194623/design/2024-10-23_0ddc7f0ceda41.png?x-oss-process=image/format,webp)](https://buymeacoffee.com/abstractiadsgn)\n\n### Socials To Follow for Daily designs\n\n[Instagram](https://www.instagram.com/abstractiadsgn/)\n\n[TikTok](https://www.tiktok.com/@abstractiadsgn)\n\n[Twitter](https://x.com/abstractiadsgn)\n\n[Patreon](https://www.patreon.com/AbstractiaDSGN)\n\n### Some of My Other Work\n\nBe sure to follow for daily designs\n\n\n\n\n## Tags",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "DSCF0645 (Large).JPG": "https://drive.google.com/uc?export=download&id=1cr9n11cA_WdVjbb3E24TGgl83xP49PUk",
         "DSCF0646 (Large).JPG": "https://drive.google.com/uc?export=download&id=1X18yWqIBHRtdZSIK7p_i__UEqsZMmQuB",
@@ -1005,7 +1005,7 @@
       "name": "wibble Lamp e14",
       "slug": "wibble-lamp-e14",
       "description": "# Ripple LED Table Lamp\n\nTransform your space with this elegant ripple-effect table lamp that brings a warm, inviting glow to any room. The distinctive curved silhouette and textured vertical pattern create stunning light diffusion effects, casting gentle shadows while providing ambient illumination.\n\nThis modern lamp features an innovative three-part design: a sturdy base, a textured outer shade with fuzzy skin finish, and an inner diffuser that softens the light for a cozy atmosphere. The sculptural form makes it an artistic statement piece even when not illuminated.\n\nPerfect for bedside tables, desks, shelves, or accent tables where you want to add both style and functional lighting.\n\n## Features:\n\n- Compatible with Bambu lighting kits linked in BOM below\n- Print in your preferred style to match your decor\n- Three-part design allows for creative color combinations\n- Textured outer shade with fuzzy skin for visual interest\n- Inner diffuser ensures perfect light dispersion\n- Designed for E14 fittings and LED candle-style bulbs\n- Modern, mid-century inspired design complements any interior\n- Compact footprint works well in small spaces\n- Creates a warm, inviting ambient glow\n\nElevate your home lighting with this designer-inspired lamp that combines form and function in a beautiful, printable package.\n\nFitting i use https://www.amazon.co.uk/dp/B0CM5P9MKF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1\n\nBulb i use\n\nhttps://www.amazon.co.uk/dp/B07SJDG1HZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=19LrvEqCbmNJIOWI11HkHRfUBNaZz2kjG",
         "base and inner shade.3mf": "https://drive.google.com/uc?export=download&id=1BpR-dVgDG_46MyFJr9Qh8QYyIqNMUx-z",
@@ -1263,7 +1263,7 @@
       "name": "Sphere Base Modern Lamp",
       "slug": "sphere-base-modern-lamp",
       "description": "## Sculptural Cylinder Table Lamp\n\nElevate your space with this sophisticated two-part table lamp featuring a striking ribbed design that creates beautiful light diffusion patterns. The modern silhouette combines a cylindrical translucent shade with a textured spherical base for a balanced, architectural aesthetic.\n\nWhen illuminated, the vertically ribbed shade transforms light into a captivating visual display, casting gentle shadows that add depth and ambiance to any room. The contrasting shade and base create a bold design statement that works equally well in contemporary or minimalist interiors.\n\nPerfect for bedside tables, shelves, desks, or accent tables where you want to add a touch of designer-inspired lighting without overwhelming your space.\n\n## Features:\n\n- Compatible with E14 light fittings and LED candle bulbs (linked in BOM below)\n- Print in your preferred style to match your decor\n- Two-part design with separate shade and base for easy assembly. NOTE SHADE MUST BE PRINTED IN SPIRAL VASE MODE\n- Translucent shade material recommended for optimal light diffusion\n- Simple assembly - fitting slides into base and secures with fitting cap\n- Clean, contemporary aesthetic works with any interior style\n- Creates a warm, inviting glow perfect for ambient lighting\n- Compact footprint makes it ideal for smaller surfaces\n- Architectural design makes it visually appealing even when not lit\n\nAdd a touch of modern sophistication to your home with this elegant lamp that combines sculptural form with practical function.\n\nFitting i use [https://www.amazon.co.uk/dp/B0CM5P9MKF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1](https://www.amazon.co.uk/dp/B0CM5P9MKF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)\n\nBulb i use [https://www.amazon.co.uk/dp/B07SJDG1HZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2](https://www.amazon.co.uk/dp/B07SJDG1HZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         "base and fuzzy shade.3mf": "https://drive.google.com/uc?export=download&id=1XKfc3JDKEvhvBBvAXz0ltS45HeVNCZTu",
         "base and shade.3mf": "https://drive.google.com/uc?export=download&id=1Jr2hcwvgLNBPPKwkMpX-s_7IW_jiq1VA",
@@ -1685,7 +1685,7 @@
       "name": "Twisted Wireless Lamp",
       "slug": "twisted-wireless-lamp",
       "description": "# Twisted Ripple Light\n\nBring elegant ambiance to your space with this sleek twisted design that creates stunning light patterns. The flowing vertical ripples catch and disperse light beautifully, making this piece a striking focal point whether lit or unlit.\n\nThis light prints rapidly in spiral vase mode and is compatible with the Bambu lighting kits linked below. The dynamic twisted form creates mesmerizing shadow patterns that transform any room into a sophisticated space.\n\n## Features:\n\n- Print in your own choice of material and color to match your decor\n- Available in spiral vase mode for rapid decorative printing or solid mode for durability\n- Compatible with Bambu lighting RGB puck for customizable lighting effects\n- Clean, modern design complements contemporary and minimalist interiors\n- Easy assembly with no supports needed\n\nThe light is available in two versions - a quick spiral vase mode print that's perfect for decorative use, or a more solid functional print. I recommend the adhesive pads linked in the BOM to secure the spiral vase version if you find it too lightweight.\n\nPrint at your desired size to create anything from a subtle accent light to a dramatic statement piece.",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "DSCF0639.JPG": "https://drive.google.com/uc?export=download&id=1q8w1Z6DBxxNZF_FujA2tia88ge9f8-kf",
         "DSCF0640.JPG": "https://drive.google.com/uc?export=download&id=1nqKkzjxCwF4QuXRq4vCfPUk8sQlLe9DB",
@@ -1778,7 +1778,7 @@
       "name": "Terrace House Book Nook",
       "slug": "terrace-house-book-nook",
       "description": "Book Nook House - Narrow Townhouse Design\n\nA charming book nook that transforms your bookshelf into a miniature townhouse scene. This clever design features a narrow facade with an arched window above and classic paneled door below, creating a cozy alleyway effect between your books. When lit from behind with the Bambu wireless RGB light, it casts a warm glow through the windows for a magical atmosphere.\n\nAll parts print separately for easy multi-color printing without an AMS - simply use a few small dabs of superglue for assembly. This light is compatible with the Bambu lighting kit linked below.\n\n- Print in your choice of colors to match your decor\n- Designed for Bambu wireless RGB light (linked in BOM)\n- Parts print separately - no AMS needed for multi-color\n- Simple assembly with small dabs of superglue\n- Fits standard bookshelves between books\n- Creates charming townhouse alley illusion\n- Warm glow effect when lit from behind\n- Perfect for adding whimsy to your reading nook",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=1HTsWXVunSItF2zhlG-YDyYlBFgAM_hzM",
         "body.obj": "https://drive.google.com/uc?export=download&id=1R8X51F6pLMeupjtZhb3S9QDDc1E4XrBD",
@@ -1946,7 +1946,7 @@
       "name": "Interfaced Wireless Lamp",
       "slug": "interfaced-wireless-lamp",
       "description": "Pleated Wireless Lamp - Two Part Design\n\nThis elegant two-part lamp creates beautiful ambient lighting with its distinctive pleated design. The top section prints in spiral vase mode for a quick, decorative finish that allows light to filter through beautifully, while the base provides a solid foundation. The two parts connect with a satisfying precision fit that makes assembly a pleasure.\n\nThe pleated texture creates interesting light patterns and shadows, making this lamp a striking addition to any room. For the top section, transparent or translucent filaments work best, though the spiral vase mode construction means even solid colours will allow some light to pass through for a subtle glow.\n\nThis lamp is compatible with the Bambu lighting kits linked below in the BOM, making it easy to add wireless functionality to your space.\n\n- Print in your own choice of filament and scale to suit your space\n- Two-part design with satisfying precision fit\n- Top section prints in spiral vase mode for quick results\n- Creates beautiful ambient lighting with pleated shadow patterns\n- Compatible with Bambu wireless lighting kits\n- Works best with transparent or light-coloured filaments for the top",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "base.obj": "https://drive.google.com/uc?export=download&id=1UI8hr2tTVfTBed7iYihFysJfzGxUy4Cy",
         "both parts top spiral vase mode.3mf": "https://drive.google.com/uc?export=download&id=1813cUHqs_1WfhGy1iXHwno-d_XngnNTE",
@@ -2014,7 +2014,7 @@
       "name": "Twisted Taper e14 Lamp",
       "slug": "twisted-taper-e14-lamp",
       "description": "Twist Ribbed Table Lamp\n\nA contemporary table lamp with an elegant hourglass silhouette and vertical ribbing that creates beautiful light diffusion. The cinched waist design pairs perfectly with tall, thin candle-style LED bulbs (E14 fitting), while the ribbed texture produces a captivating glow when illuminated.\n\nThis design is optimized to avoid infill patterns that would break light diffusion. Simply push the light fitting up the base and then screw the light fitting cap over the fitting threads to clamp the fitting to the lamp.\n\n- Print in your choice of color - light filament or transparent PLA recommended\n- Designed specifically for E14 light fittings with LED bulbs only\n- Recommend tall, thin candle-style LED bulbs for best performance\n- Optimized design avoids infill patterns for smooth light diffusion\n- Supports needed but easy to remove\n- Simple assembly - push fitting through base and secure with cap\n- Distinctive hourglass shape creates dramatic lighting effect\n- Perfect for bedside tables, desks, or accent lighting",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         "DSCF0607.JPG": "https://drive.google.com/uc?export=download&id=1-PKG1ox9vOFaAoAZKiMP8ze1Dfdn2nC5",
         "DSCF0608.JPG": "https://drive.google.com/uc?export=download&id=1TCPHTj5LPvgjLZyLm1rfMGN60xTVr5e7",
@@ -2278,7 +2278,7 @@
       "name": "Dwarven Throne room Book Nook Lamp",
       "slug": "dwarven-throne-room-book-nook-lamp",
       "description": "# Dwarven Throne Room Book Nook Light\n\nTransform your bookshelf into a miniature dwarven kingdom with this intricately detailed throne room book nook. Featuring grand stone columns, majestic arched passageways, and a regal throne set upon stepped dais, this architectural masterpiece creates a stunning illusion of depth between your favorite books.\n\n- Compatible with Bambu wireless RGB lighting kits (linked below in BOM)\n- Customizable lighting effects highlight the detailed stone architecture\n- Print in your preferred color to match your bookshelf aesthetic\n- Precisely designed to fit standard bookshelf depths\n- Stone columns and arched entryways with dwarven craftsmanship\n- Dramatic perspective design creates remarkable depth illusion\n\nWhen illuminated, this dwarven throne room transforms your bookshelf into a glimpse of an underground kingdom. The carefully designed perspective draws the eye down the columned hall toward the throne, creating a captivating focal point that brings your bookshelf to life. The lighting accentuates the stone textures and architectural details, showcasing the renowned mastery of dwarven stonework and craftsmanship.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "dwarven_throne_room_book_nook_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1OMvmtNEuKlmjg7k4dqGX9h6iDZevJ4pA",
         "12312.png": "https://drive.google.com/uc?export=download&id=1OMvmtNEuKlmjg7k4dqGX9h6iDZevJ4pA",
@@ -2351,7 +2351,7 @@
       "name": "Fantasy Dice Tower",
       "slug": "fantasy-dice-tower",
       "description": "Medieval Dice Tower with Removable Roof\n\nTransform your tabletop gaming experience with this intricately designed medieval tower dice roller. Featuring detailed stonework, gothic windows, and a spiral staircase, this functional dice tower adds fantasy flair to any gaming session. The removable conical roof allows easy access for dropping dice.\n\n    Print in your preferred color and size\n    Detailed medieval architecture with gothic-inspired elements\n    Functional dice tower with internal ramps for proper randomization\n    Removable roof for convenient dice dropping\n    Perfect for D&D, Pathfinder, and other tabletop RPGs\n    Sturdy design stands up to regular gaming sessions\n\nThis tower isn't just functional—it's a statement piece for your gaming table. The carefully crafted stone texture and architectural details bring a touch of medieval fantasy to your campaigns. Dice enter through the top and tumble down internal ramps before emerging through the arched doorway at the base, ensuring truly random rolls every time.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "BODY.obj": "https://drive.google.com/uc?export=download&id=11-Mgpes1fvpOy9dy9g54RfGTKTEHlMtm",
         "Book Nook.txt": "https://drive.google.com/uc?export=download&id=1jlFhD5RJZMVxaduJQ-OCXfa6AbvVJ2K3",
@@ -2963,7 +2963,7 @@
       "name": "Mystical Temple Book Nook Lamp",
       "slug": "mystical-temple-book-nook-lamp",
       "description": "# Monument Valley Inspired Book Nook Light\n\nTransform your bookshelf into a portal to a minimalist architectural world with this Monument Valley inspired book nook light. The clean design features elegant Gothic arches and layered staircases that create depth and intrigue between your favorite books. When illuminated, the stark white interior creates dramatic shadows that emphasize the geometric forms and add a touch of mystery to your collection.\n\n- Print in your preferred size and color to complement your personal aesthetic\n- Meticulously designed with crisp architectural lines and balanced proportions\n- Compatible with Bambu lighting kits (linked below in BOM)\n- Light source sits conveniently in the top to create perfect illumination throughout the scene\n- Conversation piece that adds artistic sophistication to any bookshelf\n\nThis captivating design blends mathematical precision with dreamlike architecture, creating a miniature monument between your books. The stepped platforms and archways draw the eye inward, inviting viewers to imagine what lies beyond. Whether displayed among fantasy novels, art books, or contemporary fiction, this illuminated book nook adds a touch of refined elegance to your literary sanctuary.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "Book Nook.txt": "https://drive.google.com/uc?export=download&id=1r3dXE7I5AC57ozn3p85PU12Q0PlBYV6o",
         "mystical_temple_book_nook_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1V0ZHuU4WDH2xeqg0kykSij_64fTJOpny",
@@ -3057,7 +3057,7 @@
       "name": "Medieval Tower Book Nook Lamp",
       "slug": "medieval-tower-book-nook-lamp",
       "description": "# Medieval Castle Book Nook Light\n\nBring the fantasy world of your novels to life with this meticulously detailed medieval castle book nook light. Featuring sturdy towers with crenellated battlements, an arched gateway illuminated from within, and defensive walls surrounding the miniature fortress, this design creates a captivating focal point on any bookshelf. The warm glow emanating from the entrance and tower windows adds a magical ambiance that perfectly complements your collection of fantasy literature.\n\n- Print in your preferred size and color to match your bookshelf aesthetics\n- Detailed castle design with multiple towers, walls, and architectural features\n- Compatible with Bambu lighting kits (linked below in BOM)\n- Light source conveniently fits in the designated area for perfect illumination\n- Ideal companion for fantasy novels, historical fiction, and medieval-themed books\n\nThis castle book nook serves as both functional lighting and an eye-catching display piece that celebrates the medieval themes in your favorite stories. The detailed fortress design draws the eye with its realistic architecture and strategic lighting placement. Whether displayed alongside epic fantasy series, historical novels, or classic tales of knights and dragons, this illuminated castle adds a touch of enchantment to your literary collection.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         "Book Nook.txt": "https://drive.google.com/uc?export=download&id=1l6QwYhuZZmI0w3jHGNEnEsdsSotys3Nh",
         "medieval_tower_book_nook_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1bGLxEUcYB6uSAq0RkgwWhPq1bNYVB9so",
@@ -3154,7 +3154,7 @@
       "name": "Geometric Lampshade E14",
       "slug": "geometric-lampshade-e14",
       "description": "# Geometric Wave Lamp - E14 Compatible\n\nAdd a sculptural touch to your space with this eye-catching geometric wave lamp. The undulating design creates a mesmerizing play of light and shadow when illuminated, bringing warmth and visual interest to any room. The unique pleated structure offers both modern appeal and timeless elegance.\n\n- E14 compatible - use LED bulbs only due to heat\n- Transparent PETG or light color PLA recommended for best light transmission\n- Print in your preferred color to match your decor\n- Optional cap available if you would like to enclose the bulb\n- Sculptural design looks beautiful even when not illuminated\n- Contemporary geometric aesthetic works in both modern and traditional spaces\n\nThis striking lamp combines artistic design with practical lighting. The fluid wave pattern creates a gentle, diffused glow that's perfect for creating ambiance in bedrooms, living areas, or as a statement piece in entryways. The pleated structure maximizes light diffusion while creating dramatic shadow patterns.",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         "CAP.obj": "https://drive.google.com/uc?export=download&id=1Cu-B9xiRZ8-kcEd9cFvVWtXIUdd_RJK1",
         "flipped light off_view1.jpg": "https://drive.google.com/uc?export=download&id=1quj169dn4M0v1BahmsJ3M-UGF92nz1tA",
@@ -3446,7 +3446,7 @@
       "name": "Roman Book Nook Lamp",
       "slug": "roman-book-nook-lamp",
       "description": "# Greek/Roman Temple Book Nook Light\n\nBring architectural elegance to your bookshelf with this classical Greek temple light. This meticulously designed book nook features iconic fluted columns and a triangular pediment that creates a striking silhouette between your favorite books. The thoughtful construction allows the triangular top to simply slip over the columns and two support poles at the rear for hassle-free assembly, while the integrated pocket in the base perfectly accommodates your light source. When illuminated, a warm, ambient glow radiates through the temple entrance, casting enchanting shadows and adding both sophistication and a touch of mystery to your literary collection.\n\n- Print in your preferred size and color to match your personal decor style\n- Three-part design with intuitive assembly - top effortlessly slips over columns\n- Light source drops easily into the specially designed pocket in the base\n- Compatible with Bambu lighting kits (linked below in BOM)\n- Perfect as a decorative accent or subtle reading light\n- Conversation starter that adds classical sophistication to any bookshelf\n\nThis design brings a touch of ancient architecture to modern bookshelves, combining practical lighting with decorative appeal. The clean lines and proportional design elements create a timeless aesthetic that complements virtually any book collection. Whether displayed among historical volumes, fantasy epics, or contemporary fiction, this Greek temple illuminates your literary world with classical charm and understated elegance.",
-      "type": "Book-Nook",
+      "type": "Book Nook",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1XxCyOaPvDGMMOUMcYAhDAzFjpLdPR7MR",
         "all parts fit a1 mini.3mf": "https://drive.google.com/uc?export=download&id=1VmuBjqIvwYLi3prUZzKBzU2L4UYnpiqI",
@@ -3555,7 +3555,7 @@
       "name": "Fuzzy Ribbed e14 Lamp",
       "slug": "fuzzy-ribbed-e14-lamp",
       "description": "# E14 Sculptural Vase Lamp with Fuzzy Skin Effect\n\nTransform your space with this elegant three-part lamp featuring a distinctive curved silhouette and captivating light diffusion. When illuminated, the textured exterior creates a mesmerizing sparkling effect that adds depth and ambiance to any room.\n\n- E14 compatible - use LED bulbs only due to heat\n- Three-part design: base mount, inner diffuser, and outer shade\n- Transparent PETG recommended for outer shade to maximize sparkling effect\n- Light PLA or transparent PETG recommended for inner diffuser\n- Utilizes fuzzy skin mode in Bambu Studio for unique textured finish\n- Print in your preferred color to complement your decor\n\nThis sophisticated lamp combines artistry with functionality. The curved profile and ribbed texture create beautiful light patterns when illuminated, while presenting as a sculptural piece even when off. The outer shade is provided as a separate file due to its specialized print settings, but all components are designed to work together perfectly.\n\nAssembly Instructions:\n\n1. Print the base and inner diffuser using standard settings\n2. Print the outer shade using spiral vase mode with fuzzy skin enabled - IMPORTANT: The outer shade MUST be printed in spiral vase mode as that is how it's modelled\n3. Insert the E14 mount into the base\n4. Slide the inner diffuser into the base, ensuring the cable cutout is positioned at the bottom\n5. Slip the outer shade over the assembled base, aligning with the three alignment pins on the base\n\nNote: E14 fitting will be linked separately in the BOM section.base",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1mlZG8L2t9NoI97TyznPnp2BOXr7juJPZ",
         "base and inner shade.3mf": "https://drive.google.com/uc?export=download&id=1pMCKP9P4p1mmtmiOdKgci1RKFASqedNq",
@@ -3720,7 +3720,7 @@
       "name": "Small Ribbed e14 Lamp",
       "slug": "small-ribbed-e14-lamp",
       "description": "# Wave Cylinder Lamp - E14 Compatible\n\nBring a touch of elegant sophistication to your space with this captivating wave cylinder lamp. The flowing vertical lines create a mesmerizing pattern that transforms when illuminated, casting beautiful light patterns through its geometric design. This versatile accent piece adds both style and ambient lighting to any room.\n\n- E14 compatible - use LED bulbs only due to heat\n- Transparent PETG or light color PLA recommended for best light transmission\n- Print in your preferred color to match your decor\n- Optional cap available if you would like to enclose the bulb\n- Sculptural design looks stunning even when not illuminated\n- Smooth cylindrical form works in both contemporary and classic settings\n\nThis striking lamp features a harmonious wave pattern that creates a gentle, diffused illumination. Perfect as a table lamp, bedside lighting, or accent piece in living spaces. The rhythmic curved design provides a calming visual element while delivering practical lighting for your home or office.",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=18A91JI0mf1cZwhcMT1fW0U5moOLU5tvh",
         "double.3mf": "https://drive.google.com/uc?export=download&id=1iJfXPuEwx2mijGSEsdExUwjqUvKHMfgB",
@@ -3999,7 +3999,7 @@
       "name": "Dual RGB Lamp",
       "slug": "dual-rgb-lamp",
       "description": "# Ripple Ambient Light\n\nTransform your space with this elegant ripple-textured ambient light that creates a stunning visual effect when illuminated. The curved ribbed design diffuses light beautifully, creating a calming atmosphere perfect for any room. The solid base provides stability while the translucent upper portion delivers a captivating glow that shifts seamlessly between colors.\n\n- Compatible with Bambu lighting kit (only one kit needed as two pucks come in a pack)\n- Uses both RGB pucks from a single Bambu lighting kit for dual-color illumination\n- Modern minimalist design suits any decor style\n- Light PLA or transparent PETG recommended for the shade portion for optimal light diffusion\n- Print in your preferred color to match your space\n- Ribbed texture creates fascinating light diffusion patterns\n\nThis contemporary lamp combines function and artistry with its distinctive rippled surface. The dual-light capability allows for creative color combinations that transform your environment. Perfect as a night light, mood lighting, or decorative accent for living rooms, bedrooms, or home offices.",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1m3pAhY-R4VJ4_x2spuj494A4MIOjCo6G",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=17Qmbb97h46cpBr1GEssKm3NOx6anpq3x",
@@ -4108,7 +4108,7 @@
       "name": "Geometric e27 lamp",
       "slug": "geometric-e27-lamp",
       "description": "# Pleated Shade Contemporary Lamp\n\nAdd a touch of modern elegance to your space with this distinctive two-part lamp featuring a beautifully pleated shade. The sculptural design combines a smooth, rounded base with an artfully pleated upper section that creates fascinating light patterns when illuminated.\n\n- Print in your preferred color to match your decor\n- Compatible with standard E27 bulb fittings with a 40mm hole for the fitting\n- Easy assembly - push the E27 fitting through the base, press the shade over the top, then use the fitting's screw mount to clamp both parts together\n- Uses the E27 lamp mount linked in the description below\n- Unique pleated shade creates beautiful light effects\n- Sturdy rounded base provides excellent stability\n\nThis decorative lamp brings contemporary style to any room with its thoughtful design. The pleated shade diffuses light in captivating patterns while the clean lines of the rounded base create a perfect contrast. The included link provides the exact E27 mount I used for this design, ensuring proper fit and assembly. Ideal for bedside tables, living rooms, or office spaces where you want to add both functional lighting and a design statement.",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1h8kS2No5w2ndGTkx0y5ZvETaSQEqPA2X",
         "BASE AND SHADE.3mf": "https://drive.google.com/uc?export=download&id=1qHsYHjZBSANHuLBZa-SHyHZQA5fNo-ek",
@@ -4200,7 +4200,7 @@
       "name": "Minimalist e27 Lamp",
       "slug": "minimalist-e27-lamp",
       "description": "# Modern Cylindrical Table Lamp\n\nBring a touch of contemporary minimalism to your space with this sleek two-part table lamp design. The clean cylindrical form creates a striking silhouette that works beautifully in modern interiors. This versatile lamp features a simple assembly system - just push the E27 lamp fitting through the base into the top, then secure with the screw fitting.\n\n- Print in your preferred size and color to match your decor\n- Compatible with standard E27 bulb fittings\n- Easy two-part assembly using the lamp screw fitting\n- Compatible with Bambu lighting kits linked below\n- Minimalist design suitable for any modern space\n- Sturdy base provides excellent stability\n\nThis lamp combines function and style with its straightforward cylindrical design. The contrasting base and shade create visual interest while maintaining clean lines. Perfect for bedside tables, living rooms, or office spaces where you want to add a contemporary lighting solution.",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1GxtI2bAZAchRZkIfpKbAMDsDd1GW_GTw",
         "base and top.3mf": "https://drive.google.com/uc?export=download&id=1MUJuYICm33saTrnXhCVx1saL3luZA_Nh",
@@ -4393,7 +4393,7 @@
       "name": "Ribbed e27 Shade",
       "slug": "ribbed-e27-shade",
       "description": "",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1rv-i4h97fyVHUiYZASIxg2RJ2-oBfWIJ",
         "ribbed_e27_shade_001.jpg": "https://drive.google.com/uc?export=download&id=1eIKxNXsgnIFNufYYMGeeoFPGhkP2iDLf",
@@ -4689,7 +4689,7 @@
       "name": "Tapered Lamp For Wired Lamp kit",
       "slug": "tapered-lamp-for-wired-lamp-kit",
       "description": "Soft Tapered Twist Lamp\n\nA sleek tapered lamp with flowing twisted ridges that creates beautiful light patterns through its sculptural form. The gentle spiral texture adds visual interest while maintaining clean, modern lines that complement any contemporary space. This lamp is compatible with the Bambu lighting kits linked below and works best when printed in light or transparent PLA or PETG to showcase the beautiful light diffusion through the twisted surface.\n\nThe elegant curves and organic texture make this piece both functional lighting and decorative art. Perfect for bedside tables, desks, or as ambient lighting in living spaces.\n\n• Print in your own preferred material and finish \n• Designed for Bambu wired lamp kits (specific dimensions required) \n• Recommended materials: light or transparent PLA/PETG for optimal light diffusion \n• Modern twisted ridge design creates stunning light patterns \n• Tapered silhouette suits various interior styles \n• Do not scale - specific dimensions required for lighting kit compatibility",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1Fp7Yu_shinfP0L8__LzyT3qlB3Q9bwG9",
         "base.obj": "https://drive.google.com/uc?export=download&id=1EGJpV8mex3qu7J0N8lJQchfPcF3wbHnM",
@@ -4781,7 +4781,7 @@
       "name": "Gummy Look Lamp",
       "slug": "gummy-look-lamp",
       "description": "**Wibble Gummy Lamp**\n\nA playful take on ambient lighting with a distinctive gummy bear aesthetic. The wibble design features flowing curves that create a soft, organic silhouette perfect for adding character to any space. This lamp uses a dual-shade system with an inner and outer component, allowing you to experiment with transparent outer materials and contrasting inner shades for unique lighting effects.\n\nThe outer shade incorporates fuzzy skin texture for excellent light diffusion, creating a warm and even glow. The design works beautifully with various filament combinations - try transparent or translucent materials for the outer shade paired with vibrant inner colours for striking visual impact.\n\nThis lamp is compatible with Bambu lighting kits linked below for easy assembly and professional results.\n\n**Key Features:**\n\n- Print in your own choice of colours and materials\n- Dual-shade design for creative colour combinations\n- Fuzzy skin texture for superior light diffusion\n- Compatible with Bambu lighting kits\n- Organic, playful aesthetic perfect for modern interiors\n- Easy assembly with included components",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1WK9SJdVM_B6plVQzGKQ_Bi8PyzhFltj3",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=16TdFOYEJIczekh3dA_bXckJ8mvvmZneG",
@@ -5190,7 +5190,7 @@
       "name": "Mini Bookshelf Lamp",
       "slug": "mini-bookshelf-lamp",
       "description": "**Geometric Split Lamp**\n\nThis modern two-part lamp brings clean, architectural lines to any space. The split design creates visual interest while accommodating both wireless RGB pucks and wired Bambu lamp kits. The geometric form works beautifully in any color combination - try contrasting colors for a bold statement or matching tones for subtle elegance.\n\nThe lamp prints in two halves that fit together seamlessly. For wired kit users, an adhesive pad helps secure the slightly smaller unit in place. Compatible with Bambu lighting kits linked below.\n\n- Print in your choice of colors and combine for unique effects\n- Compatible with wireless RGB pucks or wired Bambu lamp kits\n- Two-part design for easy printing and creative color combinations\n- Clean geometric aesthetic suits modern and minimalist spaces\n- Adhesive pad recommended for wired kit stability (linked in BOM)",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1UYIeA_5OjAOjKeXLFCXPvjRJ-RE6NIae",
         "base.obj": "https://drive.google.com/uc?export=download&id=10gmDqPhnr0R5ilQfv1MSyxNWT6TXZOLC",
@@ -5505,7 +5505,7 @@
       "name": "Wireless Sphere Shade Lamp",
       "slug": "wireless-sphere-shade-lamp",
       "description": "Wireless RGB Sphere Pattern Lamp\n\nThis elegant two-part lamp showcases a striking sphere pattern that creates beautiful light diffusion when illuminated. The design features a separate base and shade, with the shade sliding smoothly over the base for easy assembly. The sphere pattern combined with fuzzy skin texture produces stunning ambient lighting effects that transform any space.\n\nThe lamp is specifically designed to house wireless RGB puck lights, making it perfect for creating customizable mood lighting without the hassle of cables. The geometric sphere pattern casts intricate shadows while providing gentle, diffused illumination throughout your room.\n\nThis light is compatible with the Bambu lighting kits linked below.\n\n- Print in your own choice of filament and scale to suit your space\n- Two-part design for easy printing and assembly\n- Recommended: transparent PLA or PETG for optimal light diffusion on shade\n- Fuzzy skin texture enhances light scattering\n- Wireless design - no cables required\n- Customizable RGB lighting effects\n- Sphere pattern creates decorative shadow play",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=107KWA64qprOljx4VsT52Q4CUoibRqIST",
         "base.obj": "https://drive.google.com/uc?export=download&id=1WNaJ50Lcyj2UIFo5Hl6OaegD2KOZtEB9",
@@ -5681,7 +5681,7 @@
       "name": "Pendant Shade e27",
       "slug": "pendant-shade-e27",
       "description": "Ribbed Pendant Lampshade - Modern Geometric Design\n\nThis sleek pendant lampshade features flowing ribbed curves that create stunning light patterns when illuminated. The organic geometric form adds a contemporary touch to any space, whether hung as a statement pendant light or placed on its side as an accent lamp on shelves or tables.\n\nThe shade simply presses over your E27 lamp fitting, with the fitting clamp securing it from the inside for a clean, seamless look. The ribbed texture diffuses light beautifully, casting interesting shadows and creating ambient lighting perfect for dining areas, kitchens, or living spaces.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your preferred material and finish\n- Scalable design - resize to suit your space\n- Easy assembly - no complex fittings required\n- Works as pendant or accent lighting\n- Creates beautiful light diffusion patterns\n- Compatible with standard E27 bulb fittings",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1uWLaCjy6eLITzAIkoAyEFUpPgABzoOeI",
         "double inner shade e127.3mf": "https://drive.google.com/uc?export=download&id=1iQvAn82-Kd1OvSSTm5w5hQSa8Fp9v6Ma",
@@ -5911,7 +5911,7 @@
       "name": "E14 Flowing Lamp",
       "slug": "e14-flowing-lamp",
       "description": "Two-Part E14 Lamp - Flowing Modern Design\n\nThis elegant two-part lamp combines a solid base with a graceful flowing shade to create sophisticated accent lighting. The sleek design separates into two components for easy printing and assembly, while allowing you to mix and match materials or finishes for custom styling.\n\nThe flowing shade creates beautiful light diffusion while the stable base provides a solid foundation for desks, bedside tables, or shelving. The clean lines and contemporary form suit any modern interior, making it perfect for task lighting or ambient illumination.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of materials and finishes\n- Two-part design enables material combinations\n- Designed to specific dimensions for proper fit\n- Flowing shade creates soft light diffusion\n- Stable base prevents tipping\n- Compatible with standard E14 bulb fittings\nhttps://www.amazon.co.uk/dp/B0CM5P9MKF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1",
-      "type": "Lamp-e14",
+      "type": "Lamp e14",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1mNfx-xrbHqQ5HRBAu2scda5hA_eqKgU8",
         "e14_flowing_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1SXrgReaSq9wzMxpavhGAHl2MqF5XvjTV",
@@ -5982,7 +5982,7 @@
       "name": "Teardrop Lamp",
       "slug": "teardrop-lamp",
       "description": "**Ribbed Teardrop Wireless RGB Puck Light**\n\nA sleek teardrop-shaped lamp with distinctive ribbed detailing that creates beautiful light patterns when illuminated. The elegant curves and textured surface make this a standout piece for any modern interior. The clean lines and sophisticated form work perfectly as accent lighting or ambient mood lighting.\n\nThis lamp is designed to house wireless RGB puck lights, giving you full control over the lighting atmosphere. The ribbed texture casts interesting shadows and highlights, adding depth and visual interest to your space. Print it in any filament that suits your decor - from crisp whites to bold accent colors.\n\nThis lamp is compatible with the Bambu lighting kits linked below in the BOM.\n\n**Key Features:**\n\n- Print in your own choice of material and finish\n- Compatible with wireless RGB puck lights\n- Ribbed texture creates beautiful light patterns\n- Modern teardrop silhouette\n- Perfect for accent or ambient lighting",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1Bg95NndyKpi_g5DXPxlHc-sxz5GCk_kA",
         "base.obj": "https://drive.google.com/uc?export=download&id=1OE-bi-biAENU80tSIIbRc7sieVuWQ3DS",
@@ -6088,7 +6088,7 @@
       "name": "Small Wireless Uplighter",
       "slug": "small-wireless-uplighter",
       "description": "Ribbed Uplighter with Magnetic Mount - Wireless RGB Lighting\n\nThis sleek ribbed uplighter creates dramatic ceiling and wall lighting effects when paired with the Bambu wireless RGB puck light. The vertical ridged design projects beautiful linear patterns while the curved form adds sculptural appeal to any space.\n\nThe clever design includes mounting holes in the base for adding magnets, giving you the option to magnetically mount the uplighter on metal surfaces like filing cabinets, fridges, or steel shelving. Perfect for temporary installations, streaming setups, or anywhere you need flexible accent lighting without permanent fixtures.\n\nSimply slot the RGB puck into the uplighter and use the included remote for instant wireless ambiance. The compact footprint works great on desks, shelves, or mounted surfaces.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of material and finish\n- Wireless RGB lighting with remote control\n- Designed to specific dimensions for proper fit\n- Optional magnetic mounting with added magnets\n- Creates stunning linear light patterns\n- Perfect for flexible accent and mood lighting",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1S0aYAmqVUWZz9hUA57FGdaRxZRQUZdC4",
         "base and optional slot diffuser.3mf": "https://drive.google.com/uc?export=download&id=1WrolaKrENIwBqi1HBEyFORCplXxwrRVu",
@@ -6278,11 +6278,54 @@
         "sculptural_vase_2_002.jpg": "https://drive.google.com/uc?export=download&id=1d5ttUEIhKRwR7u1bFHPriQ8pF9qqLQ52",
         "IMG_0954.JPG": "https://drive.google.com/uc?export=download&id=1d5ttUEIhKRwR7u1bFHPriQ8pF9qqLQ52",
         "sculptural_vase_2_003.jpg": "https://drive.google.com/uc?export=download&id=1Q-sn8AM6LDWf1ZXtDKrWkj3leXrBsOfr",
-        "IMG_0955.JPG": "https://drive.google.com/uc?exPhone Stand
-
-Laptop Stand
-
-Book Nook
+        "IMG_0955.JPG": "https://drive.google.com/uc?export=download&id=1Q-sn8AM6LDWf1ZXtDKrWkj3leXrBsOfr",
+        "main.jpg": "https://drive.google.com/uc?export=download&id=1aEpnYhaV8LN12FNjbhewBwywzS_BzkjI",
+        "main.png": "https://drive.google.com/uc?export=download&id=1aEpnYhaV8LN12FNjbhewBwywzS_BzkjI",
+        "makerworld_url.txt": "https://drive.google.com/uc?export=download&id=1jO7gK60uz9J_Ni8kG3JPSvE8-bzX69hs",
+        "Sculptural Vase 2.md": "https://drive.google.com/uc?export=download&id=1gk6l5E-0QkKeSQdTRWX0ft64RF2JBur6",
+        "Vase.txt": "https://drive.google.com/uc?export=download&id=1WCget8VMczIDTO30yoz3bGwQB5hchVI_",
+        "sculptural_vase_2_004.jpg": "https://drive.google.com/uc?export=download&id=1p7zskS2jAcT-FmYpV48KVwdtVgwANP82",
+        "wib10_Camera_015_horizontal.png": "https://drive.google.com/uc?export=download&id=1p7zskS2jAcT-FmYpV48KVwdtVgwANP82",
+        "sculptural_vase_2_005.jpg": "https://drive.google.com/uc?export=download&id=1eSpn7VIyqF5GSJgQxCjr2CEGQ6eaae9N",
+        "wib10_Camera_015_vertical.png": "https://drive.google.com/uc?export=download&id=1eSpn7VIyqF5GSJgQxCjr2CEGQ6eaae9N",
+        "sculptural_vase_2_006.jpg": "https://drive.google.com/uc?export=download&id=1z1YQCy6e-193DBV7RUPUjHZ6u7XzUqrz",
+        "wib10_pos1_horizontal.png": "https://drive.google.com/uc?export=download&id=1z1YQCy6e-193DBV7RUPUjHZ6u7XzUqrz",
+        "sculptural_vase_2_007.jpg": "https://drive.google.com/uc?export=download&id=1GYH5tab4Qkq9pteLMJlIQSwNCIO-ENDD",
+        "wib10_pos1_vertical.png": "https://drive.google.com/uc?export=download&id=1GYH5tab4Qkq9pteLMJlIQSwNCIO-ENDD",
+        "sculptural_vase_2_008.jpg": "https://drive.google.com/uc?export=download&id=1Betf5Wi5-asqj1e9SwADOKJdj9cBYgYU",
+        "wib10_pos2_001_horizontal.png": "https://drive.google.com/uc?export=download&id=1Betf5Wi5-asqj1e9SwADOKJdj9cBYgYU",
+        "sculptural_vase_2_009.jpg": "https://drive.google.com/uc?export=download&id=18a8PbwsTSaDSo61xiM1_bhvVhTCfCzrX",
+        "wib10_pos2_001_vertical.png": "https://drive.google.com/uc?export=download&id=18a8PbwsTSaDSo61xiM1_bhvVhTCfCzrX",
+        "sculptural_vase_2_010.jpg": "https://drive.google.com/uc?export=download&id=1WIjT0U24MgImVoZxqzvpkKwgjdlRnCk5",
+        "wib10_pos2_vertical.png": "https://drive.google.com/uc?export=download&id=1WIjT0U24MgImVoZxqzvpkKwgjdlRnCk5",
+        "sculptural_vase_2_011.jpg": "https://drive.google.com/uc?export=download&id=18GrSc4gvKdZd7D0czP9B2imPajoHaW2Q",
+        "wib10_pos3_horizontal.png": "https://drive.google.com/uc?export=download&id=18GrSc4gvKdZd7D0czP9B2imPajoHaW2Q",
+        "sculptural_vase_2_012.jpg": "https://drive.google.com/uc?export=download&id=1qA82ogwcPIbED-4Dj6x-NqoJ9yu0Q-11",
+        "wib10_pos3_vertical.png": "https://drive.google.com/uc?export=download&id=1qA82ogwcPIbED-4Dj6x-NqoJ9yu0Q-11",
+        "sculptural_vase_2_013.jpg": "https://drive.google.com/uc?export=download&id=1ky53ABMOUtCfFeQSXecYe5fgbEnBjsy_",
+        "wib10_POS4_001_horizontal.png": "https://drive.google.com/uc?export=download&id=1ky53ABMOUtCfFeQSXecYe5fgbEnBjsy_",
+        "sculptural_vase_2_014.jpg": "https://drive.google.com/uc?export=download&id=1x31nPXyAzmD5xK0Zz-raNXqIphVzhB7Z",
+        "wib10_POS4_001_vertical.png": "https://drive.google.com/uc?export=download&id=1x31nPXyAzmD5xK0Zz-raNXqIphVzhB7Z",
+        "sculptural_vase_2_015.jpg": "https://drive.google.com/uc?export=download&id=1VL41dZKWJfIWtJCMbhkzhp-qHA6lXut-",
+        "wib10_POS4_horizontal.png": "https://drive.google.com/uc?export=download&id=1VL41dZKWJfIWtJCMbhkzhp-qHA6lXut-",
+        "sculptural_vase_2_016.jpg": "https://drive.google.com/uc?export=download&id=1wd8biffqrwJJBM52E9LR6SByRx27BEWQ",
+        "wib10_POS4_vertical.png": "https://drive.google.com/uc?export=download&id=1wd8biffqrwJJBM52E9LR6SByRx27BEWQ",
+        "Sculptural Vase 2_images.zip": "https://drive.google.com/uc?export=download&id=1Vucrwf8q0kw4-R7FuYKeLfABfA_2R2Cf",
+        "Sculptural Vase 2_models.zip": "https://drive.google.com/uc?export=download&id=1pW8keBg0_rKaMCREb8TiDvSaG7hPE7cs",
+        "Sculptural Vase 2_all.zip": "https://drive.google.com/uc?export=download&id=10GFWE9ibwYQ1ZJzVRVIQ5ienGUzmjQv7"
+      },
+      "added_date": "2025-07-07T10:53:03.801948",
+      "thumbnail_download": "https://drive.google.com/uc?export=download&id=1aEpnYhaV8LN12FNjbhewBwywzS_BzkjI",
+      "main_image_download": "main.png",
+      "thumbnail": "/model-images/vase/sculptural_vase_2/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1583502-elegant-sculptural-vase#profileId-1666876",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?export=download&id=1Vucrwf8q0kw4-R7FuYKeLfABfA_2R2Cf",
+          "size": "4.4 MB",
+          "file_count": 17
+        },
         "models": {
           "url": "https://drive.google.com/uc?export=download&id=1pW8keBg0_rKaMCREb8TiDvSaG7hPE7cs",
           "size": "11.2 MB",
@@ -6453,7 +6496,7 @@ Book Nook
       "name": "E27 Pendant Lampshade. Diamonds",
       "slug": "e27-pendant-lampshade-diamonds",
       "description": "Art Deco Pendant Lampshade\n\nAn elegant Art Deco-inspired lampshade featuring intricate geometric patterns and flowing leaf motifs. The sophisticated design creates beautiful light patterns when illuminated, casting decorative shadows that enhance any room's ambiance. Perfect as a statement pendant light or as a stylish table lamp when placed on a shelf.\n\nThe detailed surface texturing and symmetrical pattern work showcase the precision of 3D printing while maintaining the classic elegance of 1920s design. The standard E27 fitting makes it compatible with most pendant cord sets and lamp bases.\n\n**Key Features:**\n\n- Art Deco geometric pattern with leaf motifs\n- Standard E27 bulb fitting\n- Versatile - hang as pendant or use on shelf\n- Creates decorative light patterns when illuminated\n- Scale to your preferred dimensions\n- Print in any material or finish to match your decor\n\n_This item is compatible with the Bambu lighting kits linked below in the BOM._",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1BG0obz3RJdWbO7bWcxBtBfqf1ksZu-Ie",
         "e27_pendant_lampshade._diamonds_001.jpg": "https://drive.google.com/uc?export=download&id=1BctameFoWeBB1RXmMeO1vhqSpceZGFop",
@@ -6840,7 +6883,7 @@ Book Nook
       "name": "E27 Lampshade Many Twist",
       "slug": "e27-lampshade-many-twist",
       "description": "Twisted Pendant Lampshade with Flat Base - Versatile Modern Design\n\nThis striking twisted lampshade features a clever flat base that prevents rolling, making it perfect for use as either a pendant light or table lamp. The flowing twisted ridges create beautiful light patterns and visual interest while the stable base design gives you flexibility in placement - hang it over dining areas or set it on bedside tables, desks, or shelves.\n\nThe sculptural twisted form suits any modern interior, while the dual-purpose design means you get maximum versatility from one print. The shade simply presses over your E27 lamp fitting, with the fitting clamp securing it from the inside for a seamless look.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of material and finish\n- Dual-purpose design - pendant or table lamp\n- Flat base prevents rolling when used as table lamp\n- Designed to specific dimensions for proper fit\n- Twisted ridges create captivating light patterns\n- Compatible with standard E27 bulb fittings\nhttps://www.amazon.co.uk/dp/B0CGR66VVX?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1SjK-75nYPtGN3LJE2geH58CYDuEvYc5S",
         "e27_lampshade_many_twist_001.jpg": "https://drive.google.com/uc?export=download&id=13BS3kg70y5FZ3iOMfu3NxnaN83RkrZbx",
@@ -7029,7 +7072,7 @@ Book Nook
       "name": "Wireless Lamp Tri Face",
       "slug": "wireless-lamp-tri-face",
       "description": "Modern Wireless RGB Lamp - Two Part Design\n\nA sleek two-part wireless lamp featuring clean geometric lines and a contemporary silhouette. The design combines a sturdy base with an elegant translucent shade that creates beautiful ambient lighting effects. The minimalist aesthetic works well in modern homes, offices, or bedrooms, providing both functional lighting and a stylish accent piece.\n\nThis lamp is compatible with Bambu RGB lighting kits linked below, allowing you to enjoy customizable wireless lighting with full spectrum control. The two-part construction makes printing straightforward while maintaining structural integrity.\n\n**Key Features:**\n\n- Print in your preferred filament and finish\n- Two-part design for easy printing and assembly\n- Compatible with Bambu RGB puck lighting systems\n- Modern minimalist aesthetic suits any decor\n- Wireless operation - no cords or wiring required\n- Translucent shade creates ambient lighting effects\n- Sturdy base provides stable platform",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1VWKYMIo_Ek-IPQz8h8llUcxpL6dcPrvu",
         "base.obj": "https://drive.google.com/uc?export=download&id=1z7j_5RbCl9htZAXXDBTzcl6BcCYnu5OL",
@@ -7285,7 +7328,7 @@ Book Nook
       "name": "Three Part Wireless Lamp",
       "slug": "three-part-wireless-lamp",
       "description": "**Three Part Modern Wireless Lamp**\n\nA sleek, contemporary lamp that combines clean lines with sophisticated design. The three-piece construction features printed legs that slide into a base, topped with an elegant shade that creates beautiful ambient lighting. The geometric form and minimalist aesthetic make it perfect for modern interiors, while the wireless design keeps surfaces clutter-free.\n\nThis lamp is compatible with the Bambu lighting kits linked below in the BOM. Simply assemble the three printed components and insert the RGB puck light for instant wireless illumination with full color control.\n\n**Key Features:**\n\n- Print in your own choice of color and filament\n- Three-piece modular design for easy assembly\n- Compatible with Bambu wireless RGB puck lights\n- Clean, modern aesthetic suits any contemporary space\n- Wireless operation - no cords or outlets needed\n- Creates beautiful ambient lighting through the shade",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1IXoIpXm2ER0ZF5hut8SPc3q2b9e3CQ-G",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=1onmDM-Ai05IWXbvVCODUMvTgqUHiTV8j",
@@ -7392,7 +7435,7 @@ Book Nook
       "name": "Sphere Uplighter",
       "slug": "sphere-uplighter",
       "description": "RGB Sphere Uplighter - Wireless Ambient Lighting\n\nThis elegant ribbed sphere creates stunning ambient lighting effects when paired with the Bambu wireless RGB puck light. The geometric ridged surface diffuses and projects beautiful patterns onto walls and ceilings, while the wireless design gives you complete freedom in placement and control.\n\nSimply slot the RGB puck into the sphere and use the included remote for instant wireless ambiance. Perfect for creating cozy atmospheres, mood lighting, or dynamic streaming setups. Set up multiple spheres around your space for layered lighting effects that you can control independently or sync together.\n\nThe compact design works beautifully on shelves, desks, or side tables, adding both sculptural interest and functional lighting to any room.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of material and finish\n- Wireless RGB lighting with remote control\n- Designed to specific dimensions for proper fit\n- Creates stunning uplighting and wall patterns\n- Perfect for streaming setups and mood lighting\n- Set up multiple units for dynamic lighting scenes",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1sIpG6zN6N4wNPXIQRZPTg6Ho8gwpQ7mA",
         "sphere_uplighter_001.jpg": "https://drive.google.com/uc?export=download&id=1kXAviS3yK7_CHGRPZpifIExuEHG0Khvw",
@@ -7631,7 +7674,7 @@ Book Nook
       "name": "Wibble Base Sphere Lamp",
       "slug": "wibble-base-sphere-lamp",
       "description": "**Modern Fluted E27 Desk Lamp with Angled Base**\n\nA sleek desk lamp featuring clean lines and contemporary styling that wouldn't look out of place in a modern furniture catalog. The distinctive fluted shade creates interesting light patterns while the angled ribbed base adds visual texture and stability. The minimalist design works well in any workspace or bedside setting.\n\nThis lamp is compatible with Bambu lighting kits linked in the BOM below, making it easy to get up and running with proper wiring and components.\n\n**Key Features:**\n\n- Print in your choice of filament and finish\n- Modern minimalist aesthetic with textured details\n- Angled base provides stable platform\n- Fluted shade creates attractive light diffusion\n- Compatible with standard E27 bulbs\n- Easy assembly with linked lighting components\n- Perfect for desk, bedside, or accent lighting",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1c2m6fM2f0zjus3wBkb6f2jUXubcYpa75",
         "wibble_base_sphere_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1S9ESMxQuk-xKUml4dskuY8nnwvgbOzNQ",
@@ -7742,7 +7785,7 @@ Book Nook
       "name": "Pleated Lamp Wired",
       "slug": "pleated-lamp-wired",
       "description": "**Geometric Two-Part Table Lamp with Textured Shade**\n\nA striking two-part lamp design featuring a bold geometric pattern that creates captivating light and shadow effects. The textured cylindrical shade sits perfectly on a sleek base, offering both ambient lighting and visual interest. The geometric faceted surface adds depth and character to any space.\n\nThis lamp is compatible with Bambu lighting kits linked in the BOM below and also accepts standard E14 bulb mounts for flexible lighting options.\n\n**Key Features:**\n\n- Print in your preferred filament and finish\n- Two-part design for easy printing and assembly\n- Geometric textured shade creates dynamic lighting effects\n- Compatible with both Bambu LED kits and E14 bulb mounts\n- Stable base with clean modern lines\n- Eye-catching pattern adds visual interest to any room\n- Perfect for accent or mood lighting",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1sTnSCfDoDoycZiStyo0hs0skF2I8I4yz",
         "pleated_lamp_wired_001.jpg": "https://drive.google.com/uc?export=download&id=1JZFAy-58un3OrnFtq2DL2VbWR91ucxL-",
@@ -7889,7 +7932,7 @@ Book Nook
       "name": "Double Pendant Lampshade",
       "slug": "double-pendant-lampshade",
       "description": "Bring a sculptural touch to your lighting setup with this modern E27 pendant lampshade. The flowing organic cutouts cast captivating shadows when lit, creating a warm and inviting atmosphere perfect for living rooms, dining areas, or creative studio spaces. Designed for standard E27 sockets, this piece is easy to print and install, making it an ideal project for both new and experienced makers.\n\n- Compatible with standard E27 pendant light fittings (linked in the BOM)\n    \n- Stylish geometric silhouette with abstract cutout detailing\n    \n- Designed for easy printing with no supports required\n    \n- Scalable to fit a variety of pendant lighting setups\n    \n- Ideal for cozy, ambient lighting in modern interiors",
-      "type": "Lamp-e27",
+      "type": "Lamp e27",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=10x-kw9SIH-8S3K6J7VMCFVeHEqQf7cud",
         "1 DOUBLE.3mf": "https://drive.google.com/uc?export=download&id=1aghfEEHWspQ5oq91GbdEaOplOeZfislg",
@@ -7944,7 +7987,7 @@ Book Nook
       "name": "Twisted Cube Lamp",
       "slug": "twisted-cube-lamp",
       "description": "This minimal, fast-print lamp shade is designed for efficiency without sacrificing visual appeal. Its gentle, wave-like curves diffuse light beautifully, making it perfect for subtle accent lighting on shelves, desks, or nightstands. The design prints in under 2 hours and uses less than 40g of filament, making it a great choice for quick gifts, testing materials, or filling out display spaces.\n\nCompatible with the Bambu Wireless RGB Puck Light (linked in the BOM), it simply slips over the light—no additional hardware needed.\n\n- Prints in under 2 hours with less than 40g of filament\n    \n- Compatible with the Bambu Wireless RGB Puck Light\n    \n- No supports or glue required—prints in one piece\n    \n- Compact, elegant design ideal for ambient lighting\n    \n- Great for quick prints, material tests, or small-space decor\n    \n\nThe puck light will be linked in the bill of materials at the bottom of the listing. Purchasing one helps support my work!",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1RCpewMhnLe4mBhVK73WxzONPid6BKhhH",
         "1.obj": "https://drive.google.com/uc?export=download&id=1OI_spA3dVS1PsGyzml-W6niTZEJ_ajb0",
@@ -8020,7 +8063,7 @@ Book Nook
       "name": "Ball Lamp",
       "slug": "ball-lamp",
       "description": "This three-part modern lamp is all about customization and clean aesthetics. Designed with a cylindrical base, ribbed shade, and matching cap, it offers endless combinations to suit your style. The layered design allows for playful color pairings or minimalist monochromes, depending on your preference. Whether placed on a desk, nightstand, or shelf, this lamp adds a contemporary accent to any space.\n\nFully compatible with the **Bambu LED Wired Light Kit** (linked in the BOM), it's easy to assemble and prints cleanly without supports.\n\n- Modular 3-part design: base, ribbed diffuser shade, and cap\n    \n- Compatible with the Bambu LED Wired Light Kit and wireless rgb puck\n    \n- Encourages creative color combinations or tonal harmony\n    \n- Clean print lines with no support needed\n    \n- Great for modern decor and ambient lighting setups\n    \n\nThe Bambu LED Wired Light Kit will be linked in the bill of materials at the bottom of the listing. Purchasing one helps support my work!",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1zv6K--eVnmMYsCuoCP1-uT8cA0xeR4WJ",
         "al parts.3mf": "https://drive.google.com/uc?export=download&id=1sS0i7hxbz5kCEEoAT3Z4EQcVclLbZ4wR",
@@ -8173,7 +8216,7 @@ Book Nook
       "name": "Wireless Lampshade Lamp",
       "slug": "wireless-lampshade-lamp",
       "description": "This sleek, quick-print lampshade is optimized for both speed and elegance. With its intricate surface texture and clean silhouette, it transforms light into a dynamic visual feature while printing in under 1 hour 30 minutes and using less than 40g of filament. It’s designed to slip seamlessly over the **Bambu Wireless RGB Puck Light**—no tools or glue required.\n\nPerfect for ambient lighting on desks, shelves, or bedside tables, this lamp is a fast and stylish print that’s great for gifts or decor upgrades.\n\n- Prints in under 1 hour 30 minutes with less than 40g of filament\n    \n- Designed for the Bambu Wireless RGB Puck Light\n    \n- No supports or assembly required—one-piece design\n    \n- Rich surface pattern disperses light with visual interest\n    \n- Compact and efficient—ideal for fast decor or gifting\n    \n\nThe puck light will be linked in the bill of materials at the bottom of the listing. Purchasing one helps support my work!",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1P-2jm6GEezORwFVf7FGP7rqbfEdo18v_",
         "3 LGHT.3mf": "https://drive.google.com/uc?export=download&id=1l0ei0I-Gp8trRJzvfINUSoOVMD-B8L5l",
@@ -8254,7 +8297,7 @@ Book Nook
       "name": "Angular Lampshade Rapid Print",
       "slug": "angular-lampshade-rapid-print",
       "description": "This clean and modern lamp design blends smooth faceting with subtle curves to create a soft, ambient glow. Optimized for fast and easy printing, it slips directly over the **Bambu Wireless RGB Puck Light**—no assembly or supports required. The gentle twist in the profile catches and refracts light beautifully, making it ideal for shelves, desktops, or cozy corners.\n\nPrints fast and light, making it a great choice for gifting, rapid prototyping, or adding a stylish touch to any space.\n\n- Designed for use with the Bambu Wireless RGB Puck Light\n    \n- Sleek faceted form with a soft, organic curve\n    \n- One-piece design—no supports or glue required\n    \n- Lightweight and efficient—ideal for fast prints\n    \n- Great for mood lighting, display setups, or decorative accents\n    \n\nThe puck light will be linked in the bill of materials at the bottom of the listing. Purchasing one helps support my work!",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1KGBdi3_EayX5FgVtDUcQjvxPjFXZj7sT",
         "2.3mf": "https://drive.google.com/uc?export=download&id=1tqMgE3QiD1cMKgYl9CpMLJXj2rLM5fWu",
@@ -8345,7 +8388,7 @@ Book Nook
       "name": "e14 and Bambu Wired Lamp Kit Lamp",
       "slug": "e14-and-bambu-wired-lamp-kit-lamp",
       "description": "This elegant pleated lamp features a tall, faceted diffuser paired with a sturdy base, offering a refined blend of modern and classic aesthetics. The two-part design allows for versatile lighting setups—it’s fully compatible with both the **Bambu LED Wired Light Kit** and standard **E14 light bulbs**, making it adaptable for various lighting needs and preferences.\n\nThe clean geometry and vertical pleats create soft, directional glow, ideal for bedside tables, entryways, or ambient mood lighting in living areas.\n\n- Two-part lamp design: base and pleated diffuser\n    \n- Compatible with both Bambu LED Wired Light Kit and E14 bulbs\n    \n- Tool-free, easy assembly with a snug fit\n    \n- Diffuser shape disperses light softly and evenly\n    \n- Suitable for stylish home lighting or display accents\n    \n\nThe light kits will be linked in the bill of materials at the bottom of the listing. Purchasing one helps support my work!",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1WC6wzH9tdyN_c2Y_BqItz-RqOH1S8x9L",
         "e14_and_bambu_wired_lamp_kit_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1UaMK394pJyRm6-eJ778povfMw_f9ePgD",
@@ -8520,7 +8563,7 @@ Book Nook
       "name": "Creased Wired and Wireless Lamp",
       "slug": "creased-wired-and-wireless-lamp",
       "description": "**Creased Lamp – Two-Part Modular Design**\n\nThis striking creased lamp features a vertically folded surface that creates a beautiful play of light and shadow when illuminated. Designed as a two-part modular structure, it offers seamless compatibility with both the Bambu Wireless RGB Puck Lights and the Bambu LED Wired Light Kit. Whether placed on a shelf, desk, or nightstand, this lamp brings a modern, sculptural touch to any space.\n\nThe snap-fit design allows for easy assembly and smooth integration with lighting kits. Its print-friendly structure supports a wide range of materials, including translucent filaments for enhanced glow effects.\n\n**Key Features:**\n\n- Two-part design for easy assembly and printability\n    \n- Compatible with Bambu Wireless RGB Puck Lights and Bambu LED Wired Light Kit\n    \n- Sculptural creased surface for dynamic light diffusion\n    \n- Ideal for ambient or accent lighting\n    \n- Optimized for aesthetic impact with translucent or light-diffusing filaments\n    \n\nLights are linked in the bill of materials at the bottom of the listing. Purchasing a light kit helps support the creator.",
-      "type": "Lamp-Wireless",
+      "type": "Lamp Wireless",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1a6zMXTSn5mpvIMa_PP_RRwtt_PukakBH",
         "creased_wired_and_wireless_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1kmk62kLRlWHtFmPeABmWg7pLRmPHVwmA",
@@ -9010,7 +9053,7 @@ Book Nook
       "name": "Triple Tier Lamp",
       "slug": "triple-tier-lamp",
       "description": "This elegant 3-tier lamp design features a clean, fluted texture and modern silhouette, making it an eye-catching accent piece for any space. Designed to print in three separate parts, it offers an easy and engaging way to mix and match colors—even with a single-extruder printer. Whether used as a cohesive unit or with contrasting sections, this lamp brings a refined and customizable aesthetic to your setup.\n\nIt is fully compatible with both the **Bambu Wireless RGB Puck Lights** and the **Bambu LED Wired Light Kit**, giving you the flexibility to choose your preferred lighting option. Links to these lights are included in the bill of materials at the bottom of this listing, and purchasing through those links helps support the creator.\n\n---\n\n**Key Features**\n\n- Modular 3-part design for easy printing and creative color mixing\n    \n- Clean vertical fluting adds texture and visual interest\n    \n- Compatible with Bambu Wireless RGB Puck and Wired LED Light Kit\n    \n- Designed for single-extruder printers\n    \n- Scalable and customizable to suit any decor",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1qN0y8ud0CV8-R5k18BCU9jaEm3opM0Nk",
         "1st lebel.obj": "https://drive.google.com/uc?export=download&id=1_7VGeYZveNaiIUSC5yaTfxRGo7htD_9i",
@@ -9212,7 +9255,7 @@ Book Nook
       "name": "Organic Lamp",
       "slug": "organic-lamp",
       "description": "Bring a soft, sculptural glow to your space with this three-part organic lamp design. With fluid curves and a layered form, it’s both a functional light source and a modern decorative piece. The lamp is compatible with standard E14 bulbs and supports both the **Bambu Wireless RGB Puck Light** and the **Bambu LED Wired Light Kit**, giving you flexibility in how you light it.\n\nThe model includes a printed base, a flowing outer shade, and a removable inner diffuser. The inner piece can be printed in a tinted material to subtly adjust the color and intensity of the light, offering a customizable ambient experience. _For optimal results, I recommend printing both the shade and inner diffuser in spiral vase mode._\n\nWhether placed on a shelf, desk, or bedside table, this lamp makes an eye-catching, practical print that’s easy to assemble and tailor to your style.\n\n_Lights are linked in the bill of materials at the bottom of this listing. Purchasing them helps support the creator._\n\n---\n\n**Key Features**\n\n- Three-piece design: base, outer shade, and inner diffuser\n    \n- Compatible with standard E14 bulbs\n    \n- Supports Bambu Wireless RGB Puck Light and Bambu LED Wired Light Kit\n    \n- Inner diffuser allows for color tint customization\n    \n- Recommended: print shade and inner in spiral vase mode\n    \n- Organic, flowing shape for modern aesthetics\n    \n- No glue or hardware required for assembly\n    \n- Easy to print and scale",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1LKjl6MfZ1XhSE4MHV27GCsjRMjYaQJ2z",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=14qDrL_Bso5-Q07hrOlNsDrAXC-I2ok9P",
@@ -9570,7 +9613,7 @@ Book Nook
       "name": "Organic Lamp e14 and Bambu Kit",
       "slug": "organic-lamp-e14-and-bambu-kit",
       "description": "Add a striking statement piece to your space with this three-part lamp featuring a sculptural, flowing form. Designed for both beauty and versatility, it includes a sturdy base, a decorative outer shade, and a removable inner diffuser. The diffuser can be printed in a tinted filament to adjust the warmth, tone, or vibrancy of your lamp’s glow.\n\nThis lamp is compatible with both the **Bambu LED Wired Light Kit** and standard E14 LED bulbs, giving you flexibility in how you light it. The mounting kit used will be linked in the bill of materials for easy sourcing.\n\nWhether you want a modern accent for a desk, nightstand, or shelf, this design is easy to print, assemble, and customize to your style.\n\n_Lights and mounting kit are linked in the bill of materials at the bottom of this listing. Purchasing them helps support the creator._\n\n---\n\n**Key Features**\n\n- Three-part design: base, outer shade, and inner diffuser\n    \n- Diffuser allows for subtle color tint customization\n    \n- Compatible with Bambu LED Wired Light Kit and E14 LED bulbs\n    \n- Flowing, modern silhouette for a premium look\n    \n- Mounting kit link included in bill of materials\n    \n- No glue or extra hardware required for assembly\n    \n- Prints easily and can be scaled to different sizes",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=1CpjwYMgmxz8FT8GcFMJbL1S4G_krIkq2",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=1Yh7HeOaUuEwD2c9b__u-EJltoyvPQ66A",
@@ -9853,7 +9896,7 @@ Book Nook
       "name": "Flame inspired Lamp",
       "slug": "flame-inspired-lamp",
       "description": "**Flameform Lamp – Modular 3-Part Design**\n\nInspired by the gentle motion of a flame, this sculptural lamp brings a warm, organic presence to any space. Designed with a flowing silhouette and layered construction, it features three printable parts: a sturdy base, a translucent outer shade, and an inner diffuser that can be printed in a contrasting material for a beautiful glow effect. Compatible with both wireless and wired lighting options, this lamp is ideal for creating a soft, ambient vibe at home.\n\n- Three-part design: **base**, **outer shade**, and **inner diffuser**\n    \n- Compatible with **Bambu Wireless RGB Puck Lights**\n    \n- Also supports **Bambu LED Wired Light Kit** and **E14 bulb mount**\n    \n- Inner diffuser can be customized for unique lighting effects\n    \n- Flame-inspired curves create an inviting, organic aesthetic\n    \n- Modular design makes it easy to print, assemble, and scale\n    \n\n_Lights will be linked in the bill of materials below. Purchasing through those links helps support the creator._",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Lamp Bambu Wired Kit",
       "files": {
         ".organizer_metadata.json": "https://drive.google.com/uc?export=download&id=12aWWUt06T4HysASIFgl8kZ6R_JCnUs8P",
         "all parts.3mf": "https://drive.google.com/uc?export=download&id=14yplM7TQTyeoIYO0oYvYNv_y9nC0aGkX",
@@ -10024,7 +10067,7 @@ Book Nook
       "name": "Instax Holder",
       "slug": "instax-holder",
       "description": "Twisted Spiral Photo Holder for Polaroid and Standard Prints\n\nA sleek photo display stand with an elegant spiral twist design that adds visual interest to any space. This versatile holder accommodates various photo formats including Instax, Polaroid, and standard prints, making it perfect for showcasing your favorite memories on desks, shelves, or side tables.\n\nThe twisted form creates an eye-catching sculptural element while maintaining excellent stability for your photos. The groove design securely holds different print thicknesses without damaging your images.\n\n**Key Features:** • Print in your own preferred size and color • Compatible with Instax, Polaroid, and standard photo formats • Spiral twist design adds modern aesthetic appeal • Stable base keeps photos upright and secure • Quick and easy print with minimal support needed • Perfect for desks, shelves, and display areas\n\nSimple yet sophisticated, this photo holder transforms ordinary snapshots into stylish home décor pieces.",
-      "type": "Photo-Accessory",
+      "type": "Miniature",
       "files": {
         "main.jpg": "https://drive.google.com/uc?export=download&id=1WXtiAKd9gifT5mvuvwvTYguCtRfyvnc1",
         "main.png": "https://drive.google.com/uc?export=download&id=1WXtiAKd9gifT5mvuvwvTYguCtRfyvnc1",
@@ -10084,7 +10127,7 @@ Book Nook
       "name": "Scaled Tealight",
       "slug": "scaled-tealight",
       "description": "Scaled Tealight Holder\n\nA minimalist tealight holder featuring a clean scaled pattern that adds subtle texture and visual interest to any space. The geometric design creates beautiful light patterns when illuminated, making it perfect for creating ambient lighting in your home. This holder is compatible with 38mm LED tealights, providing a safe and reusable lighting solution.\n\nThe scaled surface catches and reflects light beautifully, creating a warm and inviting atmosphere whether used individually or as part of a collection. Simple yet striking, this design works well in modern, contemporary, or minimalist interiors.\n\n- Print in your preferred material and finish\n- Scale to your desired size\n- Compatible with 38mm LED tealights\n- Creates beautiful ambient lighting effects\n- Easy to print with minimal supports required\n- Perfect for gifts or home decoration",
-      "type": "Tealight",
+      "type": "Miniature",
       "files": {
         "scaled_tealight_001.jpg": "https://drive.google.com/uc?export=download&id=1X50OJgtmJD9ptVjPP6ZnRyo1kMTjcmTN",
         "tealights0251.png": "https://drive.google.com/uc?export=download&id=1X50OJgtmJD9ptVjPP6ZnRyo1kMTjcmTN",
@@ -10209,7 +10252,7 @@ Book Nook
       "name": "Modern Hollow Pipe Shade Lamp",
       "slug": "modern-hollow-pipe-shade-lamp",
       "description": "**Ribbed Shade Table Lamp with Dual Mount Base**\n\nA sleek modern table lamp featuring elegant vertical ribbing that creates beautiful light diffusion patterns. The contemporary design combines a sculptural ribbed shade with a practical dual-purpose base that accommodates both LED strips and traditional bulb fittings.\n\nThis two-part design offers versatility for your lighting needs - use it with Bambu lighting kits for ambient LED illumination or fit standard E14 bulbs for brighter task lighting. The ribbed texture adds visual interest while softening harsh light into a warm, welcoming glow.\n\nThe lamp is compatible with Bambu lighting kits linked below in the BOM and accepts standard E14 bulb mounts for maximum flexibility.\n\n**Key Features:**\n\n- Print in your own preferred material and finish\n- Two-part design for easy printing and assembly\n- Dual mount system - LED strips or E14 bulbs\n- Ribbed shade creates attractive light patterns\n- Modern minimalist aesthetic suits any decor\n- Compatible with Bambu lighting kits (see BOM)",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Miniature",
       "files": {
         "main.jpg": "https://drive.google.com/uc?export=download&id=11FTWKs_lZSX5HIhSsjNFucB9mgyonJed",
         "main.png": "https://drive.google.com/uc?export=download&id=11FTWKs_lZSX5HIhSsjNFucB9mgyonJed",
@@ -10283,7 +10326,7 @@ Book Nook
       "name": "Organic Lamp Double Flame",
       "slug": "organic-lamp-double-flame",
       "description": "Organic Flow Lamp - Three Part Modular Design\n\nA sleek three-part lamp featuring flowing organic curves that create stunning visual depth. The modular design includes a base, inner diffuser, and outer shade that work together to produce beautiful layered lighting effects and interesting shadow patterns.\n\nThe inner diffuser allows for creative colour combinations when using different filament types or LED colours, while the flowing outer shade softens and disperses the light beautifully. The organic form adds a modern sculptural element to any space while providing functional ambient lighting.\n\nThis lamp is compatible with the Bambu lighting kits linked below and also supports standard E14 bulbs for maximum flexibility. The three-part design prints easily with minimal supports and assembles quickly.\n\n• Print in your own choice of material and finish\n• Modular three-part design for easy printing and assembly\n• Compatible with Bambu LED kits and E14 bulbs\n• Creates beautiful layered lighting effects\n• Flowing organic aesthetic suits modern interiors\n• Minimal support requirements for clean printing",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Miniature",
       "files": {
         "organic_lamp_double_flame_001.jpg": "https://drive.google.com/uc?export=download&id=1dmR8FQMbSRFDmEVz_iJd5r5D7ldXXW91",
         "IMG_1634.JPG": "https://drive.google.com/uc?export=download&id=1dmR8FQMbSRFDmEVz_iJd5r5D7ldXXW91",
@@ -10357,7 +10400,7 @@ Book Nook
       "name": "Instax Holder Double Diamond",
       "slug": "instax-holder-double-diamond",
       "description": "2025-09-09\n#type\n#uploaded\ndirectory\n/home/davvyk/synology/3d printing/instax holder/Double mirror Holder\n\ne\n\nBe sure to follow for daily designs\n\n\n\n\n## Tags",
-      "type": "Photo-Accessory",
+      "type": "Miniature",
       "files": {
         "single.3mf": "https://drive.google.com/uc?export=download&id=1x-j8y-L4dAbcsAl97O91QcO34NXwelzW",
         "instax_holder_double_diamond_001.jpg": "https://drive.google.com/uc?export=download&id=18jHCZJxXDZdKCVfU1wseyJIoTaQHpgqI",
@@ -10417,7 +10460,7 @@ Book Nook
       "name": "Tri Twist Vase",
       "slug": "tri-twist-vase",
       "description": "## Subtle Flowing Vase - Tall\n\nAn elegant tall vase with graceful curves that adds sophisticated height to your space. The elongated proportions and smooth flowing lines create a striking silhouette that works beautifully as a standalone piece or paired with shorter vases.\n\nThis design is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for actual use. If you choose the spiral vase mode version and find it too light, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Print in your own choice of filament and finish\n- Scale to your preferred size\n- Two print modes: decorative spiral vase or functional solid print\n- Tall, elegant proportions for visual impact\n- Clean lines complement any interior style\n- Easy to print with no supports needed",
-      "type": "Vase",
+      "type": "Miniature",
       "files": {
         "solid tri.obj": "https://drive.google.com/uc?export=download&id=1YAFyl3iO_lh-oxqbSXAEmxD7aL5PWxZy",
         "tri 220mm solid mode.3mf": "https://drive.google.com/uc?export=download&id=1NIf23fJXD65Q8S6s_w2s_4o7bce2zF5z",
@@ -10581,7 +10624,7 @@ Book Nook
       "name": "Roman Column Planter",
       "slug": "roman-column-planter",
       "description": "/home/davvyk/gdrive/3d Printing/ETSY PLANTERS/roman\n## Roman Column Planter\n\nA sophisticated two-piece planter inspired by classical Roman architecture. The outer column holds the inner planter at the perfect height, creating both visual impact and practical drainage space underneath. The fluted column design brings timeless elegance to your plant displays while keeping your surfaces protected from water damage.\n\nThis clever design elevates your plants both literally and aesthetically, making it perfect for showcasing smaller houseplants or herbs. The separation between inner and outer sections ensures proper drainage and airflow around the roots.\n\n**Key Features:**\n\n- Two-piece design with built-in drainage system\n- Classical Roman column aesthetic with fluted details\n- Inner planter sits perfectly within the outer column\n- Print in your preferred material and finish\n- Scale to accommodate different plant sizes\n- Protects surfaces from water damage\n- No assembly required - parts fit together seamlessly\n\nRetry",
-      "type": "Planter",
+      "type": "Miniature",
       "files": {
         "Roman Column Planter.md": "https://drive.google.com/uc?export=download&id=1GRBBpDoug_kvoMVQ1jPIsj5x4vUmGjn1",
         "Planter.txt": "https://drive.google.com/uc?export=download&id=1CiCit4hFA-09voox7VCCYOKy9f3K6ZCe",
@@ -10639,7 +10682,7 @@ Book Nook
       "name": "Twisted Panel Vase",
       "slug": "twisted-panel-vase",
       "description": "## Modern Faceted Stem Vase\n\nA sleek, tall vase with striking geometric facets that catches the light beautifully. Perfect for displaying single stem flowers or branches with an elegant, contemporary feel. The angular design adds visual interest while maintaining clean, minimalist lines that complement any modern interior.\n\nThis vase is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for holding water and fresh flowers. If you find the spiral vase mode version too light for your flower choice, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Print in your own choice of material and finish\n- Scale to your preferred height while maintaining proportions\n- Two print modes: decorative spiral vase or functional solid print\n- Contemporary faceted design catches and reflects light\n- Perfect for single stem displays\n- Adhesive pads recommended for lightweight spiral prints",
-      "type": "Vase",
+      "type": "Miniature",
       "files": {
         "twisted_panel_vase_001.jpg": "https://drive.google.com/uc?export=download&id=1hW20hOVxJcm8Lx9DMCe4DcXKHQrOjY2U",
         "IMG_1668.JPG": "https://drive.google.com/uc?export=download&id=1hW20hOVxJcm8Lx9DMCe4DcXKHQrOjY2U",
@@ -10703,7 +10746,7 @@ Book Nook
       "name": "Phased Mini Lamp",
       "slug": "phased-mini-lamp",
       "description": "Small Twisted Lamp - Phased Twist Design\n\nThis compact twisted lamp features a striking phased twist shade that creates dynamic light patterns and visual interest. The geometric spiral form adds contemporary style while the small footprint makes it perfect for bedside tables, desks, or accent lighting in tight spaces.\n\nThe phased twist design diffuses light beautifully, casting captivating shadow patterns that change as you move around the lamp. The modern aesthetic complements any decor while providing functional task or ambient lighting wherever you need it.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of material and finish\n- Compact size perfect for small spaces\n- Designed to specific dimensions for proper fit\n- Phased twist creates unique light patterns\n- Modern geometric aesthetic\n- Ideal for task and accent lighting",
-      "type": "Lamp-Bambu-Wired-Kit",
+      "type": "Miniature",
       "files": {
         "phased_mini_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1Y0Iu0IqOWGZlxAYgzJAThneIaJXOfOIM",
         "phased lamp_view2_vert.png": "https://drive.google.com/uc?export=download&id=1Y0Iu0IqOWGZlxAYgzJAThneIaJXOfOIM",
@@ -10846,7 +10889,7 @@ Book Nook
       "name": "Intricate Planter",
       "slug": "intricate-planter",
       "description": "**Beautiful Two-Part Planter with Hidden Drip Tray**\n\nThis elegant planter combines form and function with its intricate geometric pattern and clever two-piece design. The hidden drip tray sits discretely beneath the main planter, protecting your surfaces while maintaining clean lines. The detailed diamond pattern creates visual interest and adds texture that works well in both modern and traditional settings.\n\nThe design is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for actual planting. If you find the spiral vase mode version too light, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Two-part design with hidden drip tray\n- Intricate geometric pattern for visual appeal\n- Print in your own choice of filament and finish\n- Scale to your preferred size (comes in three standard sizes)\n- Choose between rapid spiral vase mode or functional solid print\n- Perfect for houseplants or decorative arrangements",
-      "type": "Planter",
+      "type": "Miniature",
       "files": {
         "intricate_planter_001.jpg": "https://drive.google.com/uc?export=download&id=1aTTHtcaR_Wcyvap6Xkru2oUK8xIxw6ja",
         "intricatepot0255_1.png": "https://drive.google.com/uc?export=download&id=1aTTHtcaR_Wcyvap6Xkru2oUK8xIxw6ja",
