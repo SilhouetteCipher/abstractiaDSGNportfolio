@@ -1,6 +1,52 @@
 {
   "models": [
     {
+      "id": "tealight_interfaced-design",
+      "name": "Interfaced-Design",
+      "slug": "tealight-interfaced-design",
+      "description": "# Pleated Tealight Holders Duo\n\nElevate your home decor with these striking pleated tealight holders. The sculptural design features precise accordion-like folds that create beautiful light and shadow patterns when illuminated, adding a touch of refined elegance to any space.\n\nEach holder consists of two stackable rings with complementary pleated textures, allowing you to mix and match colors for endless customization possibilities. The clean, architectural aesthetic makes these pieces equally captivating as decorative objects even when not in use.\n\nPerfect for creating intimate lighting on mantels, coffee tables, dining tables, or bathroom counters - anywhere you want to add a warm, inviting glow with designer flair.\n\n## Features:\n\n- Compatible with standard 38mm LED tealights\n- Two-part design allows for creative color combinations\n- Print in your preferred style to match your decor\n- Precision pleats create stunning light diffusion patterns\n- Stackable components for easy storage\n- Contemporary design complements modern interiors\n- No assembly required - parts simply slot together\n- Makes an impressive gift that looks professionally crafted\n- Multiple holders can be arranged for a dramatic display\n\nAdd a touch of architectural sophistication to your space with these elegant tealight holders that beautifully blend form and function.\n\nBOM:\n\n- 38mm LED Tealights",
+      "type": "Tealight",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1TQHtINFQN4I0iLTJ9r3920QUKBawIPTt&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1tggp38m29fHzDauMpU8w0CereNyKJ6Hs&export=download",
+        "TWO APRT TEA (6).png": "https://drive.google.com/uc?id=1lvMW7VyHb5t4fMPXYKyw_5xhMX2rjpgv&export=download",
+        "HOR TWO APRT TEA (1).png": "https://drive.google.com/uc?id=1SxkkDGFmoKe7NKIqfNJG0kyJA1V_HJx5&export=download",
+        "TWO APRT TEA (4).png": "https://drive.google.com/uc?id=17L1gsy92Ah9VzPDMKUNpZSJBhyDLC4_F&export=download",
+        "DSCF0687 (Large).JPG": "https://drive.google.com/uc?id=1drPg7Pc96yClBOJshu_snIcGhJxMGo0q&export=download",
+        "TWO APRT TEA (2).png": "https://drive.google.com/uc?id=1DCacCbUEFoopFZrmJyROmf0dEIgrXM0N&export=download",
+        "COL 2 (1).png": "https://drive.google.com/uc?id=1HbtfQtXfUBCMReG2WLf6A0sJk1mofiAV&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1M39HEpkodbMacoZdNmF6b7udJzV7e0Y6&export=download",
+        "BOTTOM.obj": "https://drive.google.com/uc?id=1WSqy61qRlyhi7ysfScl7Y1K2h49rLMY8&export=download",
+        "each part own plate for easy colour cahnge.3mf": "https://drive.google.com/uc?id=1bSqEqSWVDFgC6skSvn_TWUue2heVPuDc&export=download",
+        "all on one plate.3mf": "https://drive.google.com/uc?id=1ddSabsOCSyBbIbZy6og1cCx8RMoodt71&export=download",
+        "TOP.obj": "https://drive.google.com/uc?id=1Z0hQHMHRfSdDBkhF-Fj4TsH1vd18JEze&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1Z3PfA2F0eR_VLP8sinskBtorDEPOE72g&export=download"
+      },
+      "added_date": "2025-09-17T17:02:02.664Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1tggp38m29fHzDauMpU8w0CereNyKJ6Hs&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/tealight/Interfaced-Design/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1392710-tealight-2-part-design-for-colour-combos#profileId-1443184",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1TQHtINFQN4I0iLTJ9r3920QUKBawIPTt&export=download",
+          "size": "13.3 MB",
+          "file_count": 7
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1M39HEpkodbMacoZdNmF6b7udJzV7e0Y6&export=download",
+          "size": "12.8 MB",
+          "file_count": 4
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1Z3PfA2F0eR_VLP8sinskBtorDEPOE72g&export=download",
+          "size": "26.1 MB",
+          "file_count": 11
+        }
+      }
+    },
+    {
       "id": "tealight_valentine-tealight",
       "name": "Valentine-Tealight",
       "slug": "tealight-valentine-tealight",
