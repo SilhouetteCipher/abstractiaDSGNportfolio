@@ -1,6 +1,56 @@
 {
   "models": [
     {
+      "id": "planter_skull-planters",
+      "name": "Skull-Planters",
+      "slug": "planter-skull-planters",
+      "description": "Bring a bold, edgy vibe to your plant display with this skull-themed planter. Designed to stand out, it combines striking detail with practical function, making it a great fit for succulents, air plants, or even as a unique desktop organizer. Its clean geometry allows for easy scaling and printability, and the hollowed design ensures proper plant placement and drainage options depending on your preference.\n\nWhether you're going for gothic decor, Halloween flair, or just want something a little different from the norm, this planter adds character to any space.\n\n**Key Features:**\n\n- Bold skull design for a distinctive aesthetic\n    \n- Functional as a planter or organizer\n    \n- Clean geometry for easy printing and scaling\n    \n- Great for themed decor, gifts, or everyday use\n    \n- Print supports optional drainage modification",
+      "type": "Planter",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1D_oy6oitLr97lH7G_WBfwARZs3uPe3Kk&export=download",
+        "main.png": "https://drive.google.com/uc?id=19TnWgi6U2CN00xNpRjiSEuuI5rcz4UOf&export=download",
+        "pos3.png": "https://drive.google.com/uc?id=1Z2exCNH8NYe9O7P0HUONHuQoFz74Kzcb&export=download",
+        "pos1.png": "https://drive.google.com/uc?id=1t_gE-gyhqxi17nQYq2v8a35Q-Gk3p9KL&export=download",
+        "POS4_001.png": "https://drive.google.com/uc?id=1Y6QHtvP6kH3Xglr0PcpQ1abgGMukNsQ2&export=download",
+        "DSCF0394 (Large).JPG": "https://drive.google.com/uc?id=1SnK8i-wWiCin71xPrdFXl0oAUQChA2cK&export=download",
+        "DSCF0396 (Large).JPG": "https://drive.google.com/uc?id=1CooK3A2xY9km-BOuzD_veBFaMHsLjXmL&export=download",
+        "main_DSCF0393 (Large).JPG": "https://drive.google.com/uc?id=1JFrE2k0AuniNF-PHHdv_h5egoqicX_w4&export=download",
+        "DSCF0395 (Large).JPG": "https://drive.google.com/uc?id=1wIgKbIaxJnVJhvyNJDGImh9ZJRlSVqZl&export=download",
+        "pos2.png": "https://drive.google.com/uc?id=1xf2iQnxBaVSlzqIGUgWdZh-68p0QNhHh&export=download",
+        "Camera_015.png": "https://drive.google.com/uc?id=1GuSK_VaxxIFXeq5S8tSc7NQReoRejCpu&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1Ojtrno2JOrThA2zyGX6E5bCF6c3Klbeu&export=download",
+        "skull planter.3mf": "https://drive.google.com/uc?id=1lqMhpc2bXFHUwA0OoO9iFulrY_vqywSm&export=download",
+        "91mm.3mf": "https://drive.google.com/uc?id=1HZp850R7AQ3oIMyND6CD7nG8jrirn1Io&export=download",
+        "150mm.3mf": "https://drive.google.com/uc?id=1TCBECzCqgKk5L3lmdF1ORToCnC10j8Fz&export=download",
+        "skull planter.stl": "https://drive.google.com/uc?id=1AQHlI10Wf5yHfSfVnqT9nr5-VBWhV53l&export=download",
+        "120mm.3mf": "https://drive.google.com/uc?id=1dmlBizZSAOkqGrt_yTsNpw5dLFX6HxxZ&export=download",
+        "all.zip": "https://drive.google.com/uc?id=19qOrj1xVT6USD-CtWEXts114go9pEU0W&export=download"
+      },
+      "added_date": "2025-09-17T10:10:34.950Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=19TnWgi6U2CN00xNpRjiSEuuI5rcz4UOf&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/planter/Skull-Planters/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1243151-skull-plant-pot-halloween-themed-planter",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1D_oy6oitLr97lH7G_WBfwARZs3uPe3Kk&export=download",
+          "size": "13.7 MB",
+          "file_count": 10
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1Ojtrno2JOrThA2zyGX6E5bCF6c3Klbeu&export=download",
+          "size": "19.3 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=19qOrj1xVT6USD-CtWEXts114go9pEU0W&export=download",
+          "size": "33 MB",
+          "file_count": 15
+        }
+      }
+    },
+    {
       "id": "tealight_pebble-tealight-twist",
       "name": "Pebble-Tealight-Twist",
       "slug": "tealight-pebble-tealight-twist",
