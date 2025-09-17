@@ -10067,7 +10067,7 @@
       "name": "Instax Holder",
       "slug": "instax-holder",
       "description": "Twisted Spiral Photo Holder for Polaroid and Standard Prints\n\nA sleek photo display stand with an elegant spiral twist design that adds visual interest to any space. This versatile holder accommodates various photo formats including Instax, Polaroid, and standard prints, making it perfect for showcasing your favorite memories on desks, shelves, or side tables.\n\nThe twisted form creates an eye-catching sculptural element while maintaining excellent stability for your photos. The groove design securely holds different print thicknesses without damaging your images.\n\n**Key Features:** • Print in your own preferred size and color • Compatible with Instax, Polaroid, and standard photo formats • Spiral twist design adds modern aesthetic appeal • Stable base keeps photos upright and secure • Quick and easy print with minimal support needed • Perfect for desks, shelves, and display areas\n\nSimple yet sophisticated, this photo holder transforms ordinary snapshots into stylish home décor pieces.",
-      "type": "Miniature",
+      "type": "Photo-Accessory",
       "files": {
         "main.jpg": "https://drive.google.com/uc?export=download&id=1WXtiAKd9gifT5mvuvwvTYguCtRfyvnc1",
         "main.png": "https://drive.google.com/uc?export=download&id=1WXtiAKd9gifT5mvuvwvTYguCtRfyvnc1",
@@ -10127,7 +10127,7 @@
       "name": "Scaled Tealight",
       "slug": "scaled-tealight",
       "description": "Scaled Tealight Holder\n\nA minimalist tealight holder featuring a clean scaled pattern that adds subtle texture and visual interest to any space. The geometric design creates beautiful light patterns when illuminated, making it perfect for creating ambient lighting in your home. This holder is compatible with 38mm LED tealights, providing a safe and reusable lighting solution.\n\nThe scaled surface catches and reflects light beautifully, creating a warm and inviting atmosphere whether used individually or as part of a collection. Simple yet striking, this design works well in modern, contemporary, or minimalist interiors.\n\n- Print in your preferred material and finish\n- Scale to your desired size\n- Compatible with 38mm LED tealights\n- Creates beautiful ambient lighting effects\n- Easy to print with minimal supports required\n- Perfect for gifts or home decoration",
-      "type": "Miniature",
+      "type": "Tealight",
       "files": {
         "scaled_tealight_001.jpg": "https://drive.google.com/uc?export=download&id=1X50OJgtmJD9ptVjPP6ZnRyo1kMTjcmTN",
         "tealights0251.png": "https://drive.google.com/uc?export=download&id=1X50OJgtmJD9ptVjPP6ZnRyo1kMTjcmTN",
@@ -10252,7 +10252,7 @@
       "name": "Modern Hollow Pipe Shade Lamp",
       "slug": "modern-hollow-pipe-shade-lamp",
       "description": "**Ribbed Shade Table Lamp with Dual Mount Base**\n\nA sleek modern table lamp featuring elegant vertical ribbing that creates beautiful light diffusion patterns. The contemporary design combines a sculptural ribbed shade with a practical dual-purpose base that accommodates both LED strips and traditional bulb fittings.\n\nThis two-part design offers versatility for your lighting needs - use it with Bambu lighting kits for ambient LED illumination or fit standard E14 bulbs for brighter task lighting. The ribbed texture adds visual interest while softening harsh light into a warm, welcoming glow.\n\nThe lamp is compatible with Bambu lighting kits linked below in the BOM and accepts standard E14 bulb mounts for maximum flexibility.\n\n**Key Features:**\n\n- Print in your own preferred material and finish\n- Two-part design for easy printing and assembly\n- Dual mount system - LED strips or E14 bulbs\n- Ribbed shade creates attractive light patterns\n- Modern minimalist aesthetic suits any decor\n- Compatible with Bambu lighting kits (see BOM)",
-      "type": "Miniature",
+      "type": "Lamp-Bambu-Wired-Kit",
       "files": {
         "main.jpg": "https://drive.google.com/uc?export=download&id=11FTWKs_lZSX5HIhSsjNFucB9mgyonJed",
         "main.png": "https://drive.google.com/uc?export=download&id=11FTWKs_lZSX5HIhSsjNFucB9mgyonJed",
@@ -10326,7 +10326,7 @@
       "name": "Organic Lamp Double Flame",
       "slug": "organic-lamp-double-flame",
       "description": "Organic Flow Lamp - Three Part Modular Design\n\nA sleek three-part lamp featuring flowing organic curves that create stunning visual depth. The modular design includes a base, inner diffuser, and outer shade that work together to produce beautiful layered lighting effects and interesting shadow patterns.\n\nThe inner diffuser allows for creative colour combinations when using different filament types or LED colours, while the flowing outer shade softens and disperses the light beautifully. The organic form adds a modern sculptural element to any space while providing functional ambient lighting.\n\nThis lamp is compatible with the Bambu lighting kits linked below and also supports standard E14 bulbs for maximum flexibility. The three-part design prints easily with minimal supports and assembles quickly.\n\n• Print in your own choice of material and finish\n• Modular three-part design for easy printing and assembly\n• Compatible with Bambu LED kits and E14 bulbs\n• Creates beautiful layered lighting effects\n• Flowing organic aesthetic suits modern interiors\n• Minimal support requirements for clean printing",
-      "type": "Miniature",
+      "type": "Lamp-Bambu-Wired-Kit",
       "files": {
         "organic_lamp_double_flame_001.jpg": "https://drive.google.com/uc?export=download&id=1dmR8FQMbSRFDmEVz_iJd5r5D7ldXXW91",
         "IMG_1634.JPG": "https://drive.google.com/uc?export=download&id=1dmR8FQMbSRFDmEVz_iJd5r5D7ldXXW91",
@@ -10400,7 +10400,7 @@
       "name": "Instax Holder Double Diamond",
       "slug": "instax-holder-double-diamond",
       "description": "2025-09-09\n#type\n#uploaded\ndirectory\n/home/davvyk/synology/3d printing/instax holder/Double mirror Holder\n\ne\n\nBe sure to follow for daily designs\n\n\n\n\n## Tags",
-      "type": "Miniature",
+      "type": "Photo-Accessory",
       "files": {
         "single.3mf": "https://drive.google.com/uc?export=download&id=1x-j8y-L4dAbcsAl97O91QcO34NXwelzW",
         "instax_holder_double_diamond_001.jpg": "https://drive.google.com/uc?export=download&id=18jHCZJxXDZdKCVfU1wseyJIoTaQHpgqI",
@@ -10460,7 +10460,7 @@
       "name": "Tri Twist Vase",
       "slug": "tri-twist-vase",
       "description": "## Subtle Flowing Vase - Tall\n\nAn elegant tall vase with graceful curves that adds sophisticated height to your space. The elongated proportions and smooth flowing lines create a striking silhouette that works beautifully as a standalone piece or paired with shorter vases.\n\nThis design is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for actual use. If you choose the spiral vase mode version and find it too light, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Print in your own choice of filament and finish\n- Scale to your preferred size\n- Two print modes: decorative spiral vase or functional solid print\n- Tall, elegant proportions for visual impact\n- Clean lines complement any interior style\n- Easy to print with no supports needed",
-      "type": "Miniature",
+      "type": "Vase",
       "files": {
         "solid tri.obj": "https://drive.google.com/uc?export=download&id=1YAFyl3iO_lh-oxqbSXAEmxD7aL5PWxZy",
         "tri 220mm solid mode.3mf": "https://drive.google.com/uc?export=download&id=1NIf23fJXD65Q8S6s_w2s_4o7bce2zF5z",
@@ -10624,7 +10624,7 @@
       "name": "Roman Column Planter",
       "slug": "roman-column-planter",
       "description": "/home/davvyk/gdrive/3d Printing/ETSY PLANTERS/roman\n## Roman Column Planter\n\nA sophisticated two-piece planter inspired by classical Roman architecture. The outer column holds the inner planter at the perfect height, creating both visual impact and practical drainage space underneath. The fluted column design brings timeless elegance to your plant displays while keeping your surfaces protected from water damage.\n\nThis clever design elevates your plants both literally and aesthetically, making it perfect for showcasing smaller houseplants or herbs. The separation between inner and outer sections ensures proper drainage and airflow around the roots.\n\n**Key Features:**\n\n- Two-piece design with built-in drainage system\n- Classical Roman column aesthetic with fluted details\n- Inner planter sits perfectly within the outer column\n- Print in your preferred material and finish\n- Scale to accommodate different plant sizes\n- Protects surfaces from water damage\n- No assembly required - parts fit together seamlessly\n\nRetry",
-      "type": "Miniature",
+      "type": "Planter",
       "files": {
         "Roman Column Planter.md": "https://drive.google.com/uc?export=download&id=1GRBBpDoug_kvoMVQ1jPIsj5x4vUmGjn1",
         "Planter.txt": "https://drive.google.com/uc?export=download&id=1CiCit4hFA-09voox7VCCYOKy9f3K6ZCe",
@@ -10682,7 +10682,7 @@
       "name": "Twisted Panel Vase",
       "slug": "twisted-panel-vase",
       "description": "## Modern Faceted Stem Vase\n\nA sleek, tall vase with striking geometric facets that catches the light beautifully. Perfect for displaying single stem flowers or branches with an elegant, contemporary feel. The angular design adds visual interest while maintaining clean, minimalist lines that complement any modern interior.\n\nThis vase is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for holding water and fresh flowers. If you find the spiral vase mode version too light for your flower choice, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Print in your own choice of material and finish\n- Scale to your preferred height while maintaining proportions\n- Two print modes: decorative spiral vase or functional solid print\n- Contemporary faceted design catches and reflects light\n- Perfect for single stem displays\n- Adhesive pads recommended for lightweight spiral prints",
-      "type": "Miniature",
+      "type": "Vase",
       "files": {
         "twisted_panel_vase_001.jpg": "https://drive.google.com/uc?export=download&id=1hW20hOVxJcm8Lx9DMCe4DcXKHQrOjY2U",
         "IMG_1668.JPG": "https://drive.google.com/uc?export=download&id=1hW20hOVxJcm8Lx9DMCe4DcXKHQrOjY2U",
@@ -10746,7 +10746,7 @@
       "name": "Phased Mini Lamp",
       "slug": "phased-mini-lamp",
       "description": "Small Twisted Lamp - Phased Twist Design\n\nThis compact twisted lamp features a striking phased twist shade that creates dynamic light patterns and visual interest. The geometric spiral form adds contemporary style while the small footprint makes it perfect for bedside tables, desks, or accent lighting in tight spaces.\n\nThe phased twist design diffuses light beautifully, casting captivating shadow patterns that change as you move around the lamp. The modern aesthetic complements any decor while providing functional task or ambient lighting wherever you need it.\n\nThis light is compatible with Bambu lighting kits linked in the BOM below.\n\n- Print in your choice of material and finish\n- Compact size perfect for small spaces\n- Designed to specific dimensions for proper fit\n- Phased twist creates unique light patterns\n- Modern geometric aesthetic\n- Ideal for task and accent lighting",
-      "type": "Miniature",
+      "type": "Lamp-Bambu-Wired-Kit",
       "files": {
         "phased_mini_lamp_001.jpg": "https://drive.google.com/uc?export=download&id=1Y0Iu0IqOWGZlxAYgzJAThneIaJXOfOIM",
         "phased lamp_view2_vert.png": "https://drive.google.com/uc?export=download&id=1Y0Iu0IqOWGZlxAYgzJAThneIaJXOfOIM",
@@ -10889,7 +10889,7 @@
       "name": "Intricate Planter",
       "slug": "intricate-planter",
       "description": "**Beautiful Two-Part Planter with Hidden Drip Tray**\n\nThis elegant planter combines form and function with its intricate geometric pattern and clever two-piece design. The hidden drip tray sits discretely beneath the main planter, protecting your surfaces while maintaining clean lines. The detailed diamond pattern creates visual interest and adds texture that works well in both modern and traditional settings.\n\nThe design is available in spiral vase mode for a rapid but decorative-only print, or as a solid print that's more functional for actual planting. If you find the spiral vase mode version too light, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Two-part design with hidden drip tray\n- Intricate geometric pattern for visual appeal\n- Print in your own choice of filament and finish\n- Scale to your preferred size (comes in three standard sizes)\n- Choose between rapid spiral vase mode or functional solid print\n- Perfect for houseplants or decorative arrangements",
-      "type": "Miniature",
+      "type": "Planter",
       "files": {
         "intricate_planter_001.jpg": "https://drive.google.com/uc?export=download&id=1aTTHtcaR_Wcyvap6Xkru2oUK8xIxw6ja",
         "intricatepot0255_1.png": "https://drive.google.com/uc?export=download&id=1aTTHtcaR_Wcyvap6Xkru2oUK8xIxw6ja",
