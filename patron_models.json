@@ -1,6 +1,60 @@
 {
   "models": [
     {
+      "id": "tealight_valentine-tealight",
+      "name": "Valentine-Tealight",
+      "slug": "tealight-valentine-tealight",
+      "description": "Valentines Heart Pattern Tealight Holder\n\nA charming tealight holder featuring delicate heart cutouts that cast romantic shadows when illuminated. The ribbed cylindrical design adds texture and visual interest while the heart patterns create a warm, intimate ambiance perfect for romantic evenings or Valentine's celebrations. The geometric ridged exterior provides an elegant contrast to the soft heart motifs within.\n\nThis holder is compatible with standard 38mm LED tealights, creating a safe and long-lasting display that captures the romantic spirit without the worry of open flames.\n\n**Key Features:**\n\n- Print in your own preferred material and finish\n- Scale to your desired size for different tealight types\n- Heart cutouts create beautiful shadow patterns\n- Ribbed exterior for added visual texture\n- Compatible with 38mm LED tealights\n- Perfect for romantic occasions and home decor\n- Easy single-piece print with no assembly required",
+      "type": "Tealight",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1zmQEgumNp4mFVB3UmE8AFlko5oOr7W4E&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=10iCBnfa_7FGv4xIpO7cBz7tfbMfgx25f&export=download",
+        "val tea vert# (7).png": "https://drive.google.com/uc?id=1YmEcN7JJ42ooPIbI0U-9V5CCcEAQosc2&export=download",
+        "val tea (2).png": "https://drive.google.com/uc?id=1pCvDOXnFRYqs6X9znVMvX3QsCo8xJ99t&export=download",
+        "val tea (5).png": "https://drive.google.com/uc?id=1TCJ6vbxyLsYTbR_5waVvYoY8IohrBvtk&export=download",
+        "20250127_091404.JPG": "https://drive.google.com/uc?id=1FPERAOchC3EqfVT2yj_Wy5u8jVJi-EWp&export=download",
+        "val tea (4).png": "https://drive.google.com/uc?id=1LPqfxdcTFyOKrQli84BkI8ts1_mkGH0M&export=download",
+        "val tea vert# (4).png": "https://drive.google.com/uc?id=1TX9D3HcfHLT8AlrCowqdnBgbpEOAEIed&export=download",
+        "val tea vert# (6).png": "https://drive.google.com/uc?id=1KfE7Jz3fpTKGvgb-NeYy0W2e5u-5YdXd&export=download",
+        "val tea vert# (2).png": "https://drive.google.com/uc?id=1MMvy-5yi9TVjUQF-4BKjN03BWkkBiIKY&export=download",
+        "val tea (1).png": "https://drive.google.com/uc?id=1RnzCBUKJ0L8ptr44k33hAvAw4GefDVeS&export=download",
+        "val tea vert# (1).png": "https://drive.google.com/uc?id=1z22K2VYIwGL7vj57j1ZtGue3iVphBDfi&export=download",
+        "val tea vert# (3).png": "https://drive.google.com/uc?id=18HHKHcj0tF47f1bZ3ubMbpMKEyMEH5uE&export=download",
+        "val tea vert# (5).png": "https://drive.google.com/uc?id=1akrRNQpPscu2AHbuqScgmHd972QlqJv_&export=download",
+        "val tea (7).png": "https://drive.google.com/uc?id=1gx8zDNgEESzDEfNNtph-COodND5ZsUTI&export=download",
+        "val tea (3).png": "https://drive.google.com/uc?id=1ZDHOu9VvVSKfiQBfSaPnmDsiPezUE7sD&export=download",
+        "val tea (6).png": "https://drive.google.com/uc?id=1uh4j1Vp2l86zNbCE8dMtW2ef7oLlWS_N&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1hZm7Diiz-MYPH2e1M4X2nei4c5phPn8U&export=download",
+        "tealight.stl": "https://drive.google.com/uc?id=1bQKlZe5yZdGaYAANz05qmUGYy4BobgDP&export=download",
+        "tea.obj": "https://drive.google.com/uc?id=1bBe48aAVoPSmcU7e7_Lnhi7mWv2Bec-L&export=download",
+        "one.3mf": "https://drive.google.com/uc?id=1bJbSGy659GJVNjDes5q5qQTlks7xUpAF&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1yle1yJXHyuw6YebIjP3NKGhmQHuVwMlG&export=download"
+      },
+      "added_date": "2025-09-17T15:47:52.576Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=10iCBnfa_7FGv4xIpO7cBz7tfbMfgx25f&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/tealight/Valentine-Tealight/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1044076-heart-design-led-tealight-lamp-under-1hr-print",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1zmQEgumNp4mFVB3UmE8AFlko5oOr7W4E&export=download",
+          "size": "35.1 MB",
+          "file_count": 16
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1hZm7Diiz-MYPH2e1M4X2nei4c5phPn8U&export=download",
+          "size": "34 MB",
+          "file_count": 3
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1yle1yJXHyuw6YebIjP3NKGhmQHuVwMlG&export=download",
+          "size": "69 MB",
+          "file_count": 19
+        }
+      }
+    },
+    {
       "id": "vase_valentines-heart-vase",
       "name": "Valentines-Heart-Vase",
       "slug": "vase-valentines-heart-vase",
