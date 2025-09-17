@@ -1,6 +1,57 @@
 {
   "models": [
     {
+      "id": "vase_valentines-heart-vase",
+      "name": "Valentines-Heart-Vase",
+      "slug": "vase-valentines-heart-vase",
+      "description": "The perfect vase for a valentines gift",
+      "type": "Vase",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1yYMEnnCaX69aVwHZVG1PNghyFvNs8p5q&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1WPD6loJje3KsLUZWNlVdNXFo-E1rFYNu&export=download",
+        "pos3.png": "https://drive.google.com/uc?id=1uCUl8TeMCaQzYYfiE36rFYCBvUHWduNv&export=download",
+        "pos1.png": "https://drive.google.com/uc?id=14UILlBznwaaYfHPL844zTwTs-vg5zBj8&export=download",
+        "POS4.jpg": "https://drive.google.com/uc?id=1p3mbatA_J6sHhVNj7eOEy-rQ_DpG8_TU&export=download",
+        "pos2_001.png": "https://drive.google.com/uc?id=1mxRiJQlx3kYGP5vR5JiMRdopRI_kgyaE&export=download",
+        "20250127_074756.JPG": "https://drive.google.com/uc?id=1dTtHrul7oRY-AuwHT9x34DHJcuJBKtec&export=download",
+        "POS4_001.png": "https://drive.google.com/uc?id=1yRyfzMArCweeAgkzVEzJzEWXgxh8VhkP&export=download",
+        "pos2.png": "https://drive.google.com/uc?id=1ziRkWDlyVw9Z3jjF0PTwVDJjDKHAYHZu&export=download",
+        "Camera_015.png": "https://drive.google.com/uc?id=15JrmPJRv_XAD5FBsrZQtkQhIUc7OlMIG&export=download",
+        "models.zip": "https://drive.google.com/uc?id=127tv3l1k4OMdkGxku7mrwpC8IxLSii7W&export=download",
+        "solid mode.stl": "https://drive.google.com/uc?id=1Uz225uBvrZ9fyEAyPJGl6-0C7IPn88i5&export=download",
+        "vase mode.stl": "https://drive.google.com/uc?id=17uItOIgEuLc9bqvlHzQ0EEe-JtMetRDg&export=download",
+        "solid mode.obj": "https://drive.google.com/uc?id=1ELJmWkaOa33zeMRHzvwNUwG-xYpl65i7&export=download",
+        "vase mode.obj": "https://drive.google.com/uc?id=1_sCIMIcPTM-7KQ-xYJsLoE1Q2AHd5lKm&export=download",
+        "220mm x 133mm solid.3mf": "https://drive.google.com/uc?id=1yVPFes3xHLXmo3MdxlQG83XnzhElOwvO&export=download",
+        "160mm x 96mm solid.3mf": "https://drive.google.com/uc?id=1Blwu5AMFIWENltsvBT0LDJP7dDLlKTNK&export=download",
+        "160mm x 96mm vase mode.3mf": "https://drive.google.com/uc?id=153YpsLZbfWRD5vhTG_lTaGSmWX5f0iUJ&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1FqP0I2XTpMT5Awm6KRWKldLHH2MiQosX&export=download"
+      },
+      "added_date": "2025-09-17T14:41:29.846Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1WPD6loJje3KsLUZWNlVdNXFo-E1rFYNu&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/vase/Valentines-Heart-Vase/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1043893-valentines-day-vase-heart-pattern-vase",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1yYMEnnCaX69aVwHZVG1PNghyFvNs8p5q&export=download",
+          "size": "15.8 MB",
+          "file_count": 9
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=127tv3l1k4OMdkGxku7mrwpC8IxLSii7W&export=download",
+          "size": "86.1 MB",
+          "file_count": 7
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1FqP0I2XTpMT5Awm6KRWKldLHH2MiQosX&export=download",
+          "size": "101.9 MB",
+          "file_count": 16
+        }
+      }
+    },
+    {
       "id": "planter_skull-planters",
       "name": "Skull-Planters",
       "slug": "planter-skull-planters",
