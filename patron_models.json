@@ -1,6 +1,54 @@
 {
   "models": [
     {
+      "id": "charger_modern-magsafe-stand",
+      "name": "Modern-Magsafe-Stand",
+      "slug": "charger-modern-magsafe-stand",
+      "description": "Multi-Orientation MagSafe Stand with StandBy Mode Support\n\nThis sleek minimalist stand transforms your MagSafe charging experience with dual-orientation support for both portrait and landscape modes. The clean geometric design perfectly complements modern desk setups while keeping your device at the ideal viewing angle. Whether you're using StandBy mode, video calls, or just need a charging dock that doesn't dominate your workspace, this stand delivers both function and style.\n\nAvailable in two versions to accommodate different MagSafe charger types - one designed for older MagSafe chargers with plastic cables, and a slightly more compact version optimized for newer MagSafe chargers with fabric-wrapped cables. The thoughtful engineering ensures a secure fit and stable charging position regardless of which version you choose.\n\n- Print in your preferred colour and material\n- Dual orientation support - portrait and landscape\n- Compatible with StandBy mode\n- Two versions available for different MagSafe charger types\n- Minimalist design suits any workspace\n- Stable base prevents tipping\n- Easy cable management",
+      "type": "Charger",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1ntn4HP5jB6ocIKCofm4ohPOUcO3PIrBh&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1nS3ls_rY7SaXatOMPCMDntcDrd2P90Uy&export=download",
+        "modernmagsafe0006.jpg": "https://drive.google.com/uc?id=1MCPJ1juFfBtawGFgF3TTwTOKIoAdOZ-q&export=download",
+        "modernmagsafe0007.jpg": "https://drive.google.com/uc?id=12e3WbOPz7sM6qoUdtvSff_RLB3Dv3sp-&export=download",
+        "modernmagsafe0001.jpg": "https://drive.google.com/uc?id=1x2K8ONA-TxWLfJaJtHgsIsZVY3fj0zdo&export=download",
+        "modernmagsafe0005.jpg": "https://drive.google.com/uc?id=1qL9zCzF9b-ao-i7qfbZRS41jB3KqgGv9&export=download",
+        "modernmagsafe0002.jpg": "https://drive.google.com/uc?id=1PVoCO3RzNXgh-FO869dR9TozUy16EuT_&export=download",
+        "modernmagsafe0003.jpg": "https://drive.google.com/uc?id=1xf8vevhno7oXIxc-JSUQJdtYbNYq0i-K&export=download",
+        "modernmagsafe0004.jpg": "https://drive.google.com/uc?id=1AKK64mpZ1mJLgAkeiaVWu6605S816Rxs&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1l7GbqsH1AL2nDxvCcicEK9jvQl_5knrU&export=download",
+        "new magsafe.3mf": "https://drive.google.com/uc?id=1NNJ8S005JfkEvv8PMQtxNeruV1YrbYMZ&export=download",
+        "standard magsafe.3mf": "https://drive.google.com/uc?id=1Ynb2G87ipq1e9I8xZuu7DB6SrmWC8yHx&export=download",
+        "phone standard mag.3mf": "https://drive.google.com/uc?id=1a4tLsB_Nj0EhiH5dmtmCvTiChv7dBtsw&export=download",
+        "phone standard mag.obj": "https://drive.google.com/uc?id=1NS6tRjNDPjGbElod_EdUvDc3z5zp4gUM&export=download",
+        "new mag.obj": "https://drive.google.com/uc?id=1hvDIQCpirbTXpfZixQnXEcIdeeWSBjm1&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1odGYzGl5yeDS-lMbqcNL9lLqsT7U1136&export=download"
+      },
+      "added_date": "2025-09-18T10:54:50.886Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1nS3ls_rY7SaXatOMPCMDntcDrd2P90Uy&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/charger/Modern-Magsafe-Stand/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1805840-modern-iphone-charging-stand-magsafe-dock",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1ntn4HP5jB6ocIKCofm4ohPOUcO3PIrBh&export=download",
+          "size": "1.1 MB",
+          "file_count": 8
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1l7GbqsH1AL2nDxvCcicEK9jvQl_5knrU&export=download",
+          "size": "3.1 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1odGYzGl5yeDS-lMbqcNL9lLqsT7U1136&export=download",
+          "size": "4.2 MB",
+          "file_count": 13
+        }
+      }
+    },
+    {
       "id": "tealight_interfaced-design",
       "name": "Interfaced-Design",
       "slug": "tealight-interfaced-design",
