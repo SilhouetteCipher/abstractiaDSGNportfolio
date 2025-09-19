@@ -1,6 +1,59 @@
 {
   "models": [
     {
+      "id": "lamp-bambu-wired-kit_lit-stem-lamp",
+      "name": "Lit-Stem-Lamp",
+      "slug": "lamp-bambu-wired-kit-lit-stem-lamp",
+      "description": "Modern Wine Glass Table Lamp - Philippe Starck Inspired Design\n\nThis striking table lamp flips conventional lighting on its head with an innovative inverted design. The LED light mounts in the top of the shade and shines downward into the wine glass-inspired stem base, creating mesmerizing layered light effects as the illumination travels through the transparent structure. The hollow base doubles as both a light conductor and cable management system, perfectly sized to accommodate the LED lamp wire and button switch.\n\nThe lamp is compatible with Bambu lighting kits (linked below) and works best when printed in fully transparent PETG or PLA to maximize the stunning light interaction between the shade and base. The shade comes in both smooth and fuzzy skin variants to suit your aesthetic preference.\n\nKey Features:\n\n- LED mounts in shade top, illuminates downward into base\n- Wine glass stem base acts as light conductor and cable run\n- Base sized to fit LED lamp wire and button switch\n- Available in smooth or fuzzy shade finishes\n- Print in your preferred transparent filament for best results\n- Compatible with Bambu wired lamp kits\n- Creates stunning layered lighting effects through transparent materials\n- Modern sculptural aesthetic perfect for contemporary spaces",
+      "type": "Lamp-bambu-wired-kit",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1c9C7mDB0Gdl0nqk4Gg5dUK4anOMyX2MQ&export=download",
+        "main.png": "https://drive.google.com/uc?id=1nJvBvcT_unEYiTpKPh9jL99QJsvENLeh&export=download",
+        "winelampimgs0256.png": "https://drive.google.com/uc?id=1etIZbccaBtYD8kHwxTXdtQDDVlV0jSzN&export=download",
+        "winelampimgs0251.png": "https://drive.google.com/uc?id=1jH-TV_EYD2f1Z5N6kkFw_n4ZqWqCWT0S&export=download",
+        "winelampimgs0255.png": "https://drive.google.com/uc?id=156RccPWasYI3r79gslm2REhNElbzFxlr&export=download",
+        "winelampimgs0252.png": "https://drive.google.com/uc?id=14xZ0mstLmwtEVbFRWpQmjrcl0Cuirj-0&export=download",
+        "winelampimgs0254.png": "https://drive.google.com/uc?id=1fHObOouPf4tpyy_BH1_rTonSihw0MAAU&export=download",
+        "winelampimgs0250.png": "https://drive.google.com/uc?id=1W_-z8zC97UTx-CHde8Ua3WLcz7FiRvRJ&export=download",
+        "winelampimgssmoothsahde0253.png": "https://drive.google.com/uc?id=1aHXuu5AIj4C8576mR2Y3WwZ-6ngtwwco&export=download",
+        "winelampimgssmoothsahde0250.png": "https://drive.google.com/uc?id=1rUXl2dbLb39LGaWJMMJmOzyliJKhNqlV&export=download",
+        "winelampimgssmoothsahde0255.png": "https://drive.google.com/uc?id=1m3IfHeGe1bp7HLV4ioD9G6lt-bB4jCOY&export=download",
+        "winelampimgs0253.png": "https://drive.google.com/uc?id=15r35ILtNgMrFTHDX0aXCQJTIzsuLHdq6&export=download",
+        "winelampimgssmoothsahde0254.png": "https://drive.google.com/uc?id=1eylYbtJZVkAIWi78AvOhTBqGOHioHGJ6&export=download",
+        "winelampimgssmoothsahde0252.png": "https://drive.google.com/uc?id=1Ccd8Q7YsTOk2mrTzuTENXjZv9ui4G6_c&export=download",
+        "winelampimgssmoothsahde0256.png": "https://drive.google.com/uc?id=1Zx9-tRVo_EqCs_qMYgAShEhILcKnjFNa&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1efMNcfIIMnS7Wtm3RhAzuxqpWXNRV9rZ&export=download",
+        "cleanbase.obj": "https://drive.google.com/uc?id=1cDKt4XqtMRYmD7Xb9Jte5TdS1OyyZI1i&export=download",
+        "SmoothShadeVersion.3mf": "https://drive.google.com/uc?id=1ePNojPLJ4s-_Cp5UhxjQJL-G5AXyaPXW&export=download",
+        "thinshade.obj": "https://drive.google.com/uc?id=1uW8_gI0UEfqjAneJO3DAafgfudC4Pz9v&export=download",
+        "fuzzyShadeVersion.3mf": "https://drive.google.com/uc?id=1jGTJS3yrqdb_TixCFm6EzPLX1h4ab3Rx&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1CkYNoOWfz0XDEmh256RBLetZp6z0nWW8&export=download"
+      },
+      "added_date": "2025-09-19T11:35:25.171Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1nJvBvcT_unEYiTpKPh9jL99QJsvENLeh&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/lamp-bambu-wired-kit/Lit-Stem-Lamp/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1808985-modern-lamp-unique-dual-layer-lit-stem-lamp",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1c9C7mDB0Gdl0nqk4Gg5dUK4anOMyX2MQ&export=download",
+          "size": "47.5 MB",
+          "file_count": 14
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1efMNcfIIMnS7Wtm3RhAzuxqpWXNRV9rZ&export=download",
+          "size": "4.1 MB",
+          "file_count": 4
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1CkYNoOWfz0XDEmh256RBLetZp6z0nWW8&export=download",
+          "size": "51.6 MB",
+          "file_count": 18
+        }
+      }
+    },
+    {
       "id": "charger_modern-magsafe-stand",
       "name": "Modern-Magsafe-Stand",
       "slug": "charger-modern-magsafe-stand",
