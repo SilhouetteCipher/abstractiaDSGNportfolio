@@ -1,6 +1,55 @@
 {
   "models": [
     {
+      "id": "vase_stagger-panel-vase",
+      "name": "Stagger-Panel-Vase",
+      "slug": "vase-stagger-panel-vase",
+      "description": "**Geometric Staggered Vase**\n\nA sleek geometric vase featuring a distinctive staggered design that adds visual interest to any space. The angular faceted surface creates dynamic light play while maintaining clean, modern lines that complement contemporary interiors.\n\nThis vase is available in spiral vase mode for a rapid but decorative only print, or as a solid print that's more functional for actual use. If you find the spiral vase mode version too light, I recommend using the adhesive pads linked in the BOM to secure it in place.\n\n**Key Features:**\n\n- Print in your own choice of filament and finish\n- Scale to your preferred size for different spaces\n- Two print modes: decorative spiral vase or functional solid print\n- Modern geometric aesthetic with staggered faceted design\n- Perfect for dried flowers, branches, or as a standalone decorative piece",
+      "type": "Vase",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=16OBShPgSthC8q72-c512NZM0nSlap8AR&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1kI0f_nPu3Q_qSnxAjXLBPCb1PjrN9P3G&export=download",
+        "stagger vase0251.jpg": "https://drive.google.com/uc?id=1OFwyCEoKF7c60KqWXjpcojAwL58uDLrd&export=download",
+        "stagger vase0253.jpg": "https://drive.google.com/uc?id=1ayB9nBKRrlz6R9n3b0R9JxIy36sabCip&export=download",
+        "stagger vase0250.jpg": "https://drive.google.com/uc?id=1gM1_22HsP86qy5TdWbeymvOH0mhqi0b8&export=download",
+        "stagger vase0255.jpg": "https://drive.google.com/uc?id=1Y6FdYWPRZzf6ImowBrFfUR03siM_hWVb&export=download",
+        "stagger vase0254.jpg": "https://drive.google.com/uc?id=1X5xemIRqOKQnRUEGTqZk7C6dTu1FzcpH&export=download",
+        "home2.jpg": "https://drive.google.com/uc?id=1L-YnnqkpQY-yT0k3ASdj_D2c4z8d-5NG&export=download",
+        "home1.jpg": "https://drive.google.com/uc?id=1lwsNo7ErLfLH2G2XSfozN4AUnvnuiZsa&export=download",
+        "stagger vase0252.jpg": "https://drive.google.com/uc?id=12RAACnFNVYbOGtjMd__li5pHXobiwbQr&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1U4So9aSG6xIfFwBBWeSeIiZHnp8-8U3f&export=download",
+        "180mm solid.3mf": "https://drive.google.com/uc?id=10aIZUh8ugONgL1UYg4G5mZiX7ih0LJ2T&export=download",
+        "panelstagger.obj": "https://drive.google.com/uc?id=1KRyUmS5jI3ImgAOm0lnUKuop5A12lHFO&export=download",
+        "180mm vasemode.3mf": "https://drive.google.com/uc?id=1RaUYAqZ7QdmLw6q9h4QCFl5ZaiQoya2g&export=download",
+        "230mm solid.3mf": "https://drive.google.com/uc?id=1ZoTso08-ciZ8VnSpA5gGxbbnbJr3HyGs&export=download",
+        "230mm vase mode.3mf": "https://drive.google.com/uc?id=1R8pIgms_zEk0RsDtEryN4y3AzHNXAmnD&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1mxVI_x4kpZ6GMgCCYqufG7X7kAieh0lR&export=download"
+      },
+      "added_date": "2025-09-20T14:43:32.309Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1kI0f_nPu3Q_qSnxAjXLBPCb1PjrN9P3G&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/vase/Stagger-Panel-Vase/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1812250-elegant-tall-stem-vase",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=16OBShPgSthC8q72-c512NZM0nSlap8AR&export=download",
+          "size": "1.9 MB",
+          "file_count": 9
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1U4So9aSG6xIfFwBBWeSeIiZHnp8-8U3f&export=download",
+          "size": "1.6 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1mxVI_x4kpZ6GMgCCYqufG7X7kAieh0lR&export=download",
+          "size": "3.5 MB",
+          "file_count": 14
+        }
+      }
+    },
+    {
       "id": "lamp-bambu-wired-kit_lit-stem-lamp",
       "name": "Lit-Stem-Lamp",
       "slug": "lamp-bambu-wired-kit-lit-stem-lamp",
