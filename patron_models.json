@@ -1,6 +1,52 @@
 {
   "models": [
     {
+      "id": "planter_sphere-planter",
+      "name": "Sphere-Planter",
+      "slug": "planter-sphere-planter",
+      "description": "Wavy Modern Planter\n\nA sleek contemporary planter featuring flowing wave patterns that add visual movement and texture to any space. The curved ridges create beautiful shadow play while maintaining a clean, minimalist aesthetic that complements both modern and traditional decor.\n\nThis design works perfectly for small houseplants, succulents, or herbs. The organic wave pattern gives it character without being overly busy, making it an ideal accent piece for desks, shelves, or windowsills.\n\n- Print in your own preferred size and color\n- Scale to fit your plants perfectly\n- Modern wave texture adds visual interest\n- Works great for succulents and small plants\n- Minimalist design suits any decor style",
+      "type": "Planter",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1XuIXF_pUHj4MxEt1kE5ndL6pGeQ0eJIY&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=15TITmQ-h1-Lv2I82_tVbXJ7ewZdMsoKG&export=download",
+        "IMG_1742.JPG": "https://drive.google.com/uc?id=1WsJv2RF-W3Gu8BYbnQrL2rLp2khe5j-6&export=download",
+        "5.jpg": "https://drive.google.com/uc?id=1PVSqUJphui2zaeoZ18yWfCvxNbxNeOG_&export=download",
+        "pottest0001.jpg": "https://drive.google.com/uc?id=1ieLziXt5o2H-O1zYT4xU3xQMkg9W-Tm3&export=download",
+        "IMG_1743.JPG": "https://drive.google.com/uc?id=1OgASIP3CyXEiMcKbpSKcWTyXqzj9aN_t&export=download",
+        "4.jpg": "https://drive.google.com/uc?id=1ehsxdC-MJCZnPlFr9zK5kQP76tUshbfl&export=download",
+        "3.jpg": "https://drive.google.com/uc?id=1naGrIuz8YuL8Pf6rvcKLC9zDoCaIk-Vb&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1nS9nxHefXxD8Csrhz-dMshIGOwVlXksW&export=download",
+        "sphere no base.obj": "https://drive.google.com/uc?id=1YVW1LvNmf3_SV7oVedOYrgo_QWTrK2YG&export=download",
+        "90mm diameter.3mf": "https://drive.google.com/uc?id=1KHcUfe3gY77qK6FAzmzrPnvwJ9tyEv4P&export=download",
+        "190mm diameter.3mf": "https://drive.google.com/uc?id=196Y4XDCXl1J6AbJ2P_thsxSt4Tnilfv4&export=download",
+        "150mm diameter.3mf": "https://drive.google.com/uc?id=1aJMJkAqtxDMSI-6ioulLj2dsYoIoUUnO&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1jyQlSfkoNmwCy2YlrYSYAhGj7a-hTWnh&export=download"
+      },
+      "added_date": "2025-09-21T14:08:21.744Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=15TITmQ-h1-Lv2I82_tVbXJ7ewZdMsoKG&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/planter/Sphere-Planter/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1815212-elegant-patterned-planter",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1XuIXF_pUHj4MxEt1kE5ndL6pGeQ0eJIY&export=download",
+          "size": "4.6 MB",
+          "file_count": 7
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1nS9nxHefXxD8Csrhz-dMshIGOwVlXksW&export=download",
+          "size": "23 MB",
+          "file_count": 4
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1jyQlSfkoNmwCy2YlrYSYAhGj7a-hTWnh&export=download",
+          "size": "27.6 MB",
+          "file_count": 11
+        }
+      }
+    },
+    {
       "id": "vase_stagger-panel-vase",
       "name": "Stagger-Panel-Vase",
       "slug": "vase-stagger-panel-vase",
