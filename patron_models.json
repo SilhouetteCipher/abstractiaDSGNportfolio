@@ -1,6 +1,57 @@
 {
   "models": [
     {
+      "id": "planter_sphere-planter-with-base",
+      "name": "Sphere-Planter-With-Base",
+      "slug": "planter-sphere-planter-with-base",
+      "description": "Wavey Sphere Planter with Drip Tray\n\nA modern planter featuring flowing wave textures that adds contemporary style to any space. The organic curved design creates visual interest while the included drip tray elevates the pot base for optimal plant drainage and health.\n\nThe elevated design promotes proper airflow around the roots and prevents water damage to surfaces, making it both functional and stylish for your indoor plants.\n\n- Print in your own preferred size and colour\n- Includes matching drip tray for plant health\n- Wave texture creates striking visual appeal\n- Elevated base design for proper drainage\n- Scale to fit your plants and space\n- Modern aesthetic suits any decor style",
+      "type": "Planter",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1ZPulez2Sec1hzeGDhUELijjOA1MhZKSi&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1mMj6ymAnZ_Kdd-Bef-4wYobh2Z2nqB32&export=download",
+        "spherePotWithDishFlipped0004.jpg": "https://drive.google.com/uc?id=18-9oR4yok8kyr2nOdLi0D-1TVYJybHlJ&export=download",
+        "spherePotWithDish0004.jpg": "https://drive.google.com/uc?id=15_kwUIwR32aVRjszYBJoo8iV1a91PVcu&export=download",
+        "spherePotWithDishFlipped0001.jpg": "https://drive.google.com/uc?id=1O7PHLzGmlDkdG34M1O9tezPmCW2ao5K_&export=download",
+        "spherePotWithDish0005.jpg": "https://drive.google.com/uc?id=11L9DVWnaw4e_Xm3OY-aF5YPqvFeXWdJ5&export=download",
+        "spherePotWithDishFlipped0006.jpg": "https://drive.google.com/uc?id=1-cnloXcWEVycvvmsi9Xxc_CEHeUGtT6G&export=download",
+        "spherePotWithDish0002.jpg": "https://drive.google.com/uc?id=1mPJhlLb8-I2SN-Hr0Udy3hCPaeB47CBt&export=download",
+        "spherePotWithDish0006.jpg": "https://drive.google.com/uc?id=1fC7ufqSILEHkIIPbDycaCJpJ8DZL30Kb&export=download",
+        "spherePotWithDishFlipped0005.jpg": "https://drive.google.com/uc?id=1Jd8ofETUV-FEOEbDJhzYxlgE_zQitkp9&export=download",
+        "spherePotWithDishFlipped0002.jpg": "https://drive.google.com/uc?id=1H8u3C5IFTfT7cPvTO1q3lgVolvRoRaw0&export=download",
+        "spherePotWithDishFlipped0003.jpg": "https://drive.google.com/uc?id=15uI_5nGwa_YyoKOWc17pv0jljUWbZ9Sa&export=download",
+        "spherePotWithDish0001.jpg": "https://drive.google.com/uc?id=1RewDmsbL1ikyrxpF_mcfO65XdPynlPMk&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1kJEYd_WX04XdKqj0T7MGLkvkvDUart9O&export=download",
+        "92mm top hole.3mf": "https://drive.google.com/uc?id=1d_oDYY474PymxPmesX1Jo3gV3lF-_R80&export=download",
+        "pot.obj": "https://drive.google.com/uc?id=1v6RSBGOVEVGWNEm_9u4ZUkfkpDVmwIzl&export=download",
+        "132mm top hole.3mf": "https://drive.google.com/uc?id=1w12oeG06DhauD1CUhH8SGsxfkKla-kiL&export=download",
+        "simple base.obj": "https://drive.google.com/uc?id=1GSTyd4RRIYT30Dpe1eHpwY0Gw2IAoRUD&export=download",
+        "all.zip": "https://drive.google.com/uc?id=18wtOvUY9_BvLlqq8FBBlLplwXXNDC-o3&export=download"
+      },
+      "added_date": "2025-09-22T10:47:21.510Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1mMj6ymAnZ_Kdd-Bef-4wYobh2Z2nqB32&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/planter/Sphere-Planter-With-Base/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1817756-sphera-beautiful-spherical-planter-with-drip-tray",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1ZPulez2Sec1hzeGDhUELijjOA1MhZKSi&export=download",
+          "size": "2.1 MB",
+          "file_count": 12
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1kJEYd_WX04XdKqj0T7MGLkvkvDUart9O&export=download",
+          "size": "44.3 MB",
+          "file_count": 4
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=18wtOvUY9_BvLlqq8FBBlLplwXXNDC-o3&export=download",
+          "size": "46.4 MB",
+          "file_count": 16
+        }
+      }
+    },
+    {
       "id": "planter_sphere-planter",
       "name": "Sphere-Planter",
       "slug": "planter-sphere-planter",
