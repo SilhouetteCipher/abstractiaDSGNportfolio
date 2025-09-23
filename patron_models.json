@@ -1,6 +1,54 @@
 {
   "models": [
     {
+      "id": "vase_flame-twist-vase",
+      "name": "Flame-Twist-Vase",
+      "slug": "vase-flame-twist-vase",
+      "description": "**Flame-Twist Decorative Vase**\n\nEnhance your space with the elegant, modern design of the Flame-Twist Decorative Vase. Subtle flame-inspired ridges create a dynamic texture that adds movement and interest to any room. This vase is ideal both as a sculptural centerpiece or as a practical item for holding fresh flowers or dried arrangements.\n\nChoose between spiral vase mode for a fast, lightweight decorative print, or solid mode to hold water securely. Its clean, organic form complements minimalist, Scandinavian, or contemporary interiors.\n\n💡 For lightweight spiral prints, we recommend using adhesive pads (linked in the BOM) to keep it stable on shelves or tables.\n\n- Print in your choice of color  \n- Scale to your preferred size  \n- Easy to print  \n- Spiral mode for decorative display or solid for functional use  \n- Modern flame-textured design adds visual interest to any room",
+      "type": "Vase",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1fbMgKRWORWfjwYhcUstfg1Y-6JS2w2R_&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1_ZK9D935z8WGUiBNxuMtZRmpUD_Fqhj9&export=download",
+        "staggerflamevase0256.jpg": "https://drive.google.com/uc?id=1z-9vHKX64KRWdU39OHKM6fdDyWWAQV3u&export=download",
+        "staggerflamevase0255.jpg": "https://drive.google.com/uc?id=1nXmb7UjrTvT5fOwsWYYghltYpnWEq5ql&export=download",
+        "staggerflamevase0250.jpg": "https://drive.google.com/uc?id=1QwxHyJdPNs1NCnnWte1ZnubLLRE7x1r2&export=download",
+        "staggerflamevase0253.jpg": "https://drive.google.com/uc?id=1W0x0JaTiejkY-mWzpQIWfFXGYO7xFe1Y&export=download",
+        "staggerflamevase0252.jpg": "https://drive.google.com/uc?id=1VhxPWObGLZTcurUn6rDjXmUwXHHgdy0Y&export=download",
+        "staggerflamevase0254.jpg": "https://drive.google.com/uc?id=1HaYRLWLwTgmW1kJytgIFcSLNgTasmzHQ&export=download",
+        "staggerflamevase0251.jpg": "https://drive.google.com/uc?id=1xICq7rgV56qws46zZK_Q0E6tHuKopkVh&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1dMti8P94ZaEbrIj5quFn_8P24vzHkqpQ&export=download",
+        "stagger twist.obj": "https://drive.google.com/uc?id=1Hc6RxhIKLObZFhW53Pgbi-Yf7jjILLUa&export=download",
+        "180mmSpiral.3mf": "https://drive.google.com/uc?id=19bDoHrjHT0lbqmTcEQkoiRspb09E2fAZ&export=download",
+        "230mm.3mf": "https://drive.google.com/uc?id=1huvFkFdNy81r1u-NA9ZdirHXCMIGBWR_&export=download",
+        "180mm.3mf": "https://drive.google.com/uc?id=1CRXQ2KjZk_vaamBUQPohmvQT7vWVUJeq&export=download",
+        "230mmSpiral.3mf": "https://drive.google.com/uc?id=1VTi-nKSW_0ev0gyrPnI10vhwNmHABNMX&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1PitWsm3kP28zoDoRNvprHCktrbZbw-wk&export=download"
+      },
+      "added_date": "2025-09-23T08:27:47.589Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1_ZK9D935z8WGUiBNxuMtZRmpUD_Fqhj9&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/vase/Flame-Twist-Vase/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1820399-flist-modern-flame-pattern-vase",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1fbMgKRWORWfjwYhcUstfg1Y-6JS2w2R_&export=download",
+          "size": "1.2 MB",
+          "file_count": 8
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1dMti8P94ZaEbrIj5quFn_8P24vzHkqpQ&export=download",
+          "size": "21.4 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1PitWsm3kP28zoDoRNvprHCktrbZbw-wk&export=download",
+          "size": "22.6 MB",
+          "file_count": 13
+        }
+      }
+    },
+    {
       "id": "planter_sphere-planter-with-base",
       "name": "Sphere-Planter-With-Base",
       "slug": "planter-sphere-planter-with-base",
