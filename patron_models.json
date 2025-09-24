@@ -1,6 +1,52 @@
 {
   "models": [
     {
+      "id": "tealight_rose-tealights",
+      "name": "Rose-Tealights",
+      "slug": "tealight-rose-tealights",
+      "description": "**Lotus-Inspired LED Tealight Holder**\n\nBring a soft, elegant glow to your space with this lotus-inspired LED tealight holder. The layered petal design adds a modern sculptural touch to shelves, desks, or nightstands while providing cozy, ambient illumination. Designed to fit standard 38mm LED tealights, it’s ideal for mood lighting without open flames. \n\nWhether you're adding warmth to a relaxing evening setup or styling a decorative centerpiece, this piece offers both style and function. Print in your favorite color to match your space perfectly.\n\n- Print in your choice of color  \n- Scale to your preferred size *(excluding tealight opening)*  \n- Easy to print  \n- Fits standard 38mm LED tealights  \n- Creates ambient, atmospheric lighting for any room",
+      "type": "Tealight",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1NKNOLnlnqJIHg9JeIj9iJwzKks_T_Hic&export=download",
+        "main.jpg": "https://drive.google.com/uc?id=1rvAiWr_VkCAWKlNXxkt8_HXvdZYDa7HL&export=download",
+        "rosetea0254.jpg": "https://drive.google.com/uc?id=1oelTwJVAnilSOZ5Us16uwr1tK9wPcsPF&export=download",
+        "rosetea0253.jpg": "https://drive.google.com/uc?id=1ReoVFpFXcMwJl_LH5enutNV6QElmMnCo&export=download",
+        "tose.jpg": "https://drive.google.com/uc?id=1ISd_90n5_a_rjIePb-fyh5AY_1qYUmDE&export=download",
+        "rosetea0251.jpg": "https://drive.google.com/uc?id=12tMMV-ko07aj_IabxWkqBCQRBXBSj7rr&export=download",
+        "rosetea0256.jpg": "https://drive.google.com/uc?id=1-N_M9itVlMvOdEuEb8zWGNPtyMat8o-9&export=download",
+        "rosetea0252.jpg": "https://drive.google.com/uc?id=1Cj0nCSL7Celd_6Kwz1Ab4Dsr2WXDS340&export=download",
+        "rosetea0255.jpg": "https://drive.google.com/uc?id=1eTz1dsTGBTDZmtMpOS3Vy4cD-L9TDYNh&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1mTZJbWhRArn-uBIJT6S2at2LZVgsuvw2&export=download",
+        "three.3mf": "https://drive.google.com/uc?id=1YMf4AuDjzUFBnsRpCBVafsmu_1WPprhu&export=download",
+        "rosej.obj": "https://drive.google.com/uc?id=1FctheXyd2J9J-lrPUWnQnzwKFsSdMXpk&export=download",
+        "one.3mf": "https://drive.google.com/uc?id=1IWFPwnMraVozAj1Jlz9rcJ9I-pio58B_&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1ZUtsST7Po8Pi6FhPbGkYpaE5zZrTon-f&export=download"
+      },
+      "added_date": "2025-09-24T14:00:08.465Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1rvAiWr_VkCAWKlNXxkt8_HXvdZYDa7HL&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/tealight/Rose-Tealights/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1823914-beautiful-rose-inspired-led-tealights",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1NKNOLnlnqJIHg9JeIj9iJwzKks_T_Hic&export=download",
+          "size": "1 MB",
+          "file_count": 8
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1mTZJbWhRArn-uBIJT6S2at2LZVgsuvw2&export=download",
+          "size": "6.8 MB",
+          "file_count": 3
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1ZUtsST7Po8Pi6FhPbGkYpaE5zZrTon-f&export=download",
+          "size": "7.8 MB",
+          "file_count": 11
+        }
+      }
+    },
+    {
       "id": "vase_flame-twist-vase",
       "name": "Flame-Twist-Vase",
       "slug": "vase-flame-twist-vase",
