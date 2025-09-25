@@ -1,6 +1,54 @@
 {
   "models": [
     {
+      "id": "planter_sphere-textured-planter",
+      "name": "Sphere-Textured-Planter",
+      "slug": "planter-sphere-textured-planter",
+      "description": "***Pattern Planter Pot****\n\nAdd a playful, tropical touch to your plant display with this charming planter pot featuring a subtle  relief pattern. Designed with a smooth, rounded shape and decorative texture, it brings both style and personality to any home, office, or garden space. Ideal for indoor plants, succulents, or small decorative arrangements.\n\nUsers can customize the look by printing in any color and choosing the size that best fits their space. The design is beginner-friendly and prints easily with most standard settings.\n\n---\n\n- Print in your choice of color  \n- Scale to your preferred size  \n- Easy to print  \n- Great for succulents, houseplants, or decorative use indoors or outdoors",
+      "type": "Planter",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1YsGtMpOjV7Hpl4sgUkZpCG_HAikd6Nqa&export=download",
+        "main.png": "https://drive.google.com/uc?id=1ZpX0w0E3eiG-MP_2qT7bS9DVCL9n4bqy&export=download",
+        "doubleflamepot0005.png": "https://drive.google.com/uc?id=1GkBmHtYM6Y_VdZkGj66dS0Y6a1nOFpjC&export=download",
+        "doubleflamepot0001.png": "https://drive.google.com/uc?id=1FBZ3vjmxQmsSuXhq0Ojr5ZdgcSqJoxzY&export=download",
+        "doubleflamepot0007.png": "https://drive.google.com/uc?id=1Q5ubo3NdsFzJwbeZkpe9u5s8qU3wj5F5&export=download",
+        "doubleflamepot0002.png": "https://drive.google.com/uc?id=1JQ0EJetswrNEw4pzsJAVp3CCTXIxDeC4&export=download",
+        "doubleflamepot0006.png": "https://drive.google.com/uc?id=1ESGr4tWrM2O6M6NXM4cD0DQxLLHsqD0o&export=download",
+        "doubleflamepot0003.png": "https://drive.google.com/uc?id=1GxlOU5Eb5M5aYeM1NbSsjsw6orTSeCzY&export=download",
+        "doubleflamepot0004.png": "https://drive.google.com/uc?id=1yRQ_PTTPi7QYU41jBGdhUq4Q2-URzRZY&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1ckWAhvKzayvSh8VuRVwbPd7e9KNWF3Kh&export=download",
+        "double layer.3mf": "https://drive.google.com/uc?id=1K2rV2JJo85bByiQMA6iNNIHzh_8afH8p&export=download",
+        "double layer.obj": "https://drive.google.com/uc?id=16TY_oQGXxj8R0juGq14Gf9z5AA1CBGyE&export=download",
+        "100mmDiameter.3mf": "https://drive.google.com/uc?id=1WaeQDVSSM_Il82Ztwu6jdl-8P7v8ZHBO&export=download",
+        "150mmDiameter.3mf": "https://drive.google.com/uc?id=1dllgBUSWkjO3HuxCZmBidq7d60MXQjN-&export=download",
+        "200mmDiameter.3mf": "https://drive.google.com/uc?id=1-YijeZeHK9vamkUsV78cJ1jvnKmh6P1d&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1qUWhDHWqIrpdDGpJEQ9bAS9in-s61WVG&export=download"
+      },
+      "added_date": "2025-09-25T09:29:39.168Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1ZpX0w0E3eiG-MP_2qT7bS9DVCL9n4bqy&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/planter/Sphere-Textured-Planter/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1826137-modern-planter-with-simple-elegant-pattern",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1YsGtMpOjV7Hpl4sgUkZpCG_HAikd6Nqa&export=download",
+          "size": "33.6 MB",
+          "file_count": 8
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1ckWAhvKzayvSh8VuRVwbPd7e9KNWF3Kh&export=download",
+          "size": "20.9 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1qUWhDHWqIrpdDGpJEQ9bAS9in-s61WVG&export=download",
+          "size": "54.5 MB",
+          "file_count": 13
+        }
+      }
+    },
+    {
       "id": "tealight_rose-tealights",
       "name": "Rose-Tealights",
       "slug": "tealight-rose-tealights",
