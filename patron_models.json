@@ -1,6 +1,68 @@
 {
   "models": [
     {
+      "id": "lamp-bambu-wired-kit_modern-sliced-lamp",
+      "name": "Modern-Sliced-Lamp",
+      "slug": "lamp-bambu-wired-kit-modern-sliced-lamp",
+      "description": "**Modern Ambient Table Light**\n\nEnhance any space with this sleek and modern table light designed for both style and atmosphere. Featuring a geometric vented body and a minimalist cap design, this piece pairs perfectly with the Bambu lighting kit for smooth ambient illumination. Ideal for desks, shelves, or bedside tables, this lamp is both a functional lighting solution and an eye-catching accent.\n\nPlease note: **Dimensions are fixed** to ensure compatibility with the Bambu lighting kit (linked in BOM).\n\n- Print in your choice of color  \n- Dimensions are fixed for proper lighting kit fit  \n- Easy to print with minimal supports  \n- Compatible with Bambu lighting kit (linked in BOM)  \n- Adds warm, ambient lighting to any room",
+      "type": "Lamp-bambu-wired-kit",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1dZvoNG0BvT0JWANUKqA7s-iZJT--Cscj&export=download",
+        "main.png": "https://drive.google.com/uc?id=1mvFBSBMpInnoPiTijCPyrCXA_MCZQUQc&export=download",
+        "sliced lamp9.jpg": "https://drive.google.com/uc?id=103Lacjribf4lG_O2DsUpEn1-pbcSJe-E&export=download",
+        "sliced lamp0253.png": "https://drive.google.com/uc?id=1rOpfX9VcxdKSGPSPP38qyrwGC4rQsrMh&export=download",
+        "sliced lamp0252.png": "https://drive.google.com/uc?id=1Op7Ioi9HK3P638ynmmN1FL46qp43jZXl&export=download",
+        "sliced lamp11.jpg": "https://drive.google.com/uc?id=1dMsx0oMCUuwLXkxbBr_MyhzrGmqRZQy9&export=download",
+        "sliced lamp12.jpg": "https://drive.google.com/uc?id=1S-3OISaHVts7wIKQ4H8Z8TJCD-VlvuMJ&export=download",
+        "sliced lamp15.jpg": "https://drive.google.com/uc?id=1JfylLxljEjVlcYNuBpSY9vIAOXVSRzrC&export=download",
+        "sliced lamp7.jpg": "https://drive.google.com/uc?id=17UrF8_kfDNrPfK5dLdPcjcM2ep3rsI-B&export=download",
+        "sliced lamp6.jpg": "https://drive.google.com/uc?id=1eFAdIIrcw5fakN8Cc9bIB2_d7tihp0wM&export=download",
+        "sliced lamp0251.png": "https://drive.google.com/uc?id=1OhUCV9pkMCOOwCdaH_IhwDAEfBejUrWa&export=download",
+        "sliced lamp1.jpg": "https://drive.google.com/uc?id=1NtKjvkRPqAcbgOBRKNo4viI4fipHDLEy&export=download",
+        "sliced lamp2.jpg": "https://drive.google.com/uc?id=1rgxyY3zAKP2dTi5GaR8nn9y0rpxYxBKm&export=download",
+        "sliced lamp13.jpg": "https://drive.google.com/uc?id=1N9qwWiV0Kpu2zsxwekqJh2JadQXS0zcf&export=download",
+        "sliced lamp3.jpg": "https://drive.google.com/uc?id=16RJNxBDNZR5rZ8xwpgaQJyJh0mMg_6Dq&export=download",
+        "sliced lamp4.jpg": "https://drive.google.com/uc?id=1JXO7zDI_vorrw1FUgrTP1Su6G0weazXp&export=download",
+        "sliced lamp0254.png": "https://drive.google.com/uc?id=1JaizelHroFM1z6FGoPBxG7V-EMOcwRAm&export=download",
+        "sliced lamp5.jpg": "https://drive.google.com/uc?id=1CYXkSaRcu2oFc9553mSA_xPwDo_4tcii&export=download",
+        "sliced lamp16.jpg": "https://drive.google.com/uc?id=1yYF5dScehwwrTF5GMaGrEMu2qvoSndt0&export=download",
+        "sliced lamp0255.png": "https://drive.google.com/uc?id=1CWesmXrfPijbQjKEt3eyF5XOyhzs4KPI&export=download",
+        "sliced lamp10.jpg": "https://drive.google.com/uc?id=1Lf_ogUvnOjMDMWBNjzSKH_BXefhxHgiF&export=download",
+        "sliced lamp8.jpg": "https://drive.google.com/uc?id=1xZvYUzSfuySLckCinBh1kFaqi-Ba6bok&export=download",
+        "sliced lamp14.jpg": "https://drive.google.com/uc?id=1cFD409qx8AblIKe_Qv4dAdg5WgU1YOHb&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1mJ8k5Iw_r03-UHP6jU_F2mIOZ8ZmvKK-&export=download",
+        "diffuser.obj": "https://drive.google.com/uc?id=1wVD4GprQD_Lu_YQA9X6N_40cqPhFY--L&export=download",
+        "cap.obj": "https://drive.google.com/uc?id=1_N6yqEFeTOSgGweWXAabVy9i3V7rgTp1&export=download",
+        "frame.obj": "https://drive.google.com/uc?id=1nfL_mB_KaP6BpCxQ9tHJ9c2sRL9BH7dn&export=download",
+        "all parts.3mf": "https://drive.google.com/uc?id=17tscRWhc-__KLF-t2fXTNVPSAnTqGGrc&export=download",
+        "base.obj": "https://drive.google.com/uc?id=1iJgRGvHk7wOsA65TplRNUfzIjYh9fzxm&export=download",
+        "all.zip": "https://drive.google.com/uc?id=14dMVWbf8SbPYfsxHfZ8HodwonSjGDqqU&export=download"
+      },
+      "added_date": "2025-09-26T10:39:21.991Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=1mvFBSBMpInnoPiTijCPyrCXA_MCZQUQc&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/lamp-bambu-wired-kit/Modern-Sliced-Lamp/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1829207-modern-lamp-with-inner-diffuser",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1dZvoNG0BvT0JWANUKqA7s-iZJT--Cscj&export=download",
+          "size": "46.7 MB",
+          "file_count": 22
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1mJ8k5Iw_r03-UHP6jU_F2mIOZ8ZmvKK-&export=download",
+          "size": "13.4 MB",
+          "file_count": 5
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=14dMVWbf8SbPYfsxHfZ8HodwonSjGDqqU&export=download",
+          "size": "60.1 MB",
+          "file_count": 27
+        }
+      }
+    },
+    {
       "id": "planter_sphere-textured-planter",
       "name": "Sphere-Textured-Planter",
       "slug": "planter-sphere-textured-planter",
