@@ -1,6 +1,60 @@
 {
   "models": [
     {
+      "id": "lamp-bambu-wired-kit_coiled-lamp",
+      "name": "Coiled-Lamp",
+      "slug": "lamp-bambu-wired-kit-coiled-lamp",
+      "description": "**Spiral Coil Lamp**\n\nThis compact and modern spiral lamp is designed with flowing, organic curves that wrap gracefully around a central light source. It’s an eye-catching addition to any space, offering both a stylish sculptural look and soft ambient lighting. The coiled design not only enhances the aesthetic appeal but also diffuses light beautifully in every direction.\n\nThe lamp is precisely sized to work with Bambu lighting kits (linked in the Bill of Materials), and it's ready to level up your decor with a modern, artistic vibe. Ideal for bedside tables, desks, or cozy corners.\n\n🔧 *Note: Dimensions are fixed for compatibility with lighting kits.*\n\n- Print in your choice of color  \n- Easy to print with smooth, flowing geometry  \n- Fixed size for perfect lighting kit fit  \n- Stunning ambient light with sculptural form  \n- Functional and decorative for modern interiors",
+      "type": "Lamp-bambu-wired-kit",
+      "files": {
+        "images.zip": "https://drive.google.com/uc?id=1W-EYXBCyr2E6bc8ZQBSefhNPdy8nTU5W&export=download",
+        "main.png": "https://drive.google.com/uc?id=18x3i846wo0q48Qpa-gOht2JbkQKvCq6p&export=download",
+        "redroselamp0251.png": "https://drive.google.com/uc?id=1u1x1XBd9wqZQVS1ydiPjwVa41gNuJe2c&export=download",
+        "blueroselamp0253.png": "https://drive.google.com/uc?id=1BlxWyxaX749hn-rQHTM5vrHmdVhSCHWL&export=download",
+        "blueroselamp0252.png": "https://drive.google.com/uc?id=1QMQuprgHM4wzvW6FI6OwrUCBxeJe5amR&export=download",
+        "blueroselamp0251.png": "https://drive.google.com/uc?id=1N_GsOTP_hfQkl7etqDCbxbHvNSS3hZ_Q&export=download",
+        "redroselamp0256.png": "https://drive.google.com/uc?id=1V_6SL8PjQkSU9wHTg8XnjZ4oksQea8OF&export=download",
+        "redroselamp0253.png": "https://drive.google.com/uc?id=19nrkRHxLPaen4s3LEO-tCFqQP7IE_GIt&export=download",
+        "redroselamp0257.png": "https://drive.google.com/uc?id=1NCzPPynPfi-ZWqafVUECrN1Z457kNrSx&export=download",
+        "blueroselamp0256.png": "https://drive.google.com/uc?id=1DAUHKrVAaYwl57L_CDNG2IQ2VY9AO5qD&export=download",
+        "redroselamp0250.png": "https://drive.google.com/uc?id=1LRAeMtS65XtYq-hJzrXRSzW6zE6YyoRL&export=download",
+        "redroselamp0252.png": "https://drive.google.com/uc?id=1AwYfPfaWbjxNg_uwksL5RiFupsHRRT1Y&export=download",
+        "blueroselamp0255.png": "https://drive.google.com/uc?id=1gXoBBrZQac3JOBMF57USRLn6KUKEv7_d&export=download",
+        "redroselamp0254.png": "https://drive.google.com/uc?id=1wX3x1OwoaMDWaOB0w1u553q_hcyO-Etj&export=download",
+        "redroselamp0255.png": "https://drive.google.com/uc?id=19GZ7EMBvDCl0IosDgPwR7bqbg15H_oSk&export=download",
+        "blueroselamp0250.png": "https://drive.google.com/uc?id=1QFtEwg4uZvh24TWA_UddZv85iUzXe4bx&export=download",
+        "blueroselamp0257.png": "https://drive.google.com/uc?id=1rq7bxAohDZ0oGQmkfKUYES8jY3RWfB7f&export=download",
+        "models.zip": "https://drive.google.com/uc?id=1ag3ECI1HyAMW4aA3i9x6W5hajN8n7UFr&export=download",
+        "diffuser.obj": "https://drive.google.com/uc?id=1Nt_5ssXLnYEFAOlwdMYKW-5qN5b8Wd_p&export=download",
+        "cloudspin.3mf": "https://drive.google.com/uc?id=15r8GftF6eolvtin-iHCD7_RuO33UVVGu&export=download",
+        "cloudspin.obj": "https://drive.google.com/uc?id=1gQ9wi8OlFcLgrB8Al6kBgiurcGSOtu6m&export=download",
+        "all.zip": "https://drive.google.com/uc?id=1rlcFL_fsCVbF5ApABqx872r3qyEKPFLo&export=download"
+      },
+      "added_date": "2025-09-30T14:39:11.775Z",
+      "thumbnail_download": "https://drive.google.com/uc?id=18x3i846wo0q48Qpa-gOht2JbkQKvCq6p&export=download",
+      "main_image_download": "main.jpg",
+      "thumbnail": "/model-images/lamp-bambu-wired-kit/Coiled-Lamp/main.jpg",
+      "main_image": "main.jpg",
+      "makerworld_url": "https://makerworld.com/en/models/1838819-coiled-side-lamp-modern-and-unique",
+      "bundles": {
+        "images": {
+          "url": "https://drive.google.com/uc?id=1W-EYXBCyr2E6bc8ZQBSefhNPdy8nTU5W&export=download",
+          "size": "56.3 MB",
+          "file_count": 16
+        },
+        "models": {
+          "url": "https://drive.google.com/uc?id=1ag3ECI1HyAMW4aA3i9x6W5hajN8n7UFr&export=download",
+          "size": "9.7 MB",
+          "file_count": 3
+        },
+        "all": {
+          "url": "https://drive.google.com/uc?id=1rlcFL_fsCVbF5ApABqx872r3qyEKPFLo&export=download",
+          "size": "66 MB",
+          "file_count": 19
+        }
+      }
+    },
+    {
       "id": "lamp-bambu-wired-kit_modern-sliced-lamp",
       "name": "Modern-Sliced-Lamp",
       "slug": "lamp-bambu-wired-kit-modern-sliced-lamp",
